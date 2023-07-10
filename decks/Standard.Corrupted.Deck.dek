@@ -1,0 +1,61 @@
+<deck version="0.8">
+	<meta>
+		<game>mythos</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="StdC101">Alone in the World</name><set>StdC</set></card>
+		<card><name id="StdC102">Questionable Judgement</name><set>StdC</set></card>
+		<card><name id="StdC103">The Price</name><set>StdC</set></card>
+		<card><name id="StdC104">Whispers in Darkness</name><set>StdC</set></card>
+		<card><name id="StdC202">Dr. Allen</name><set>StdC</set></card>
+		<card><name id="StdC203">Gomes</name><set>StdC</set></card>
+		<card><name id="StdC204">Henry Wentworth Akeley</name><set>StdC</set></card>
+		<card><name id="StdC201">Miss Anna Tilton</name><set>StdC</set></card>
+		<card><name id="StdC205">Ray Stuckey</name><set>StdC</set></card>
+		<card><name id="StdC206">Squire Sawyer Whateley</name><set>StdC</set></card>
+		<card><name id="StdC301">.32 Revolver</name><set>StdC</set></card>
+		<card><name id="StdC302">Enchanted Knife</name><set>StdC</set></card>
+		<card><name id="StdC303">Speech Machine</name><set>StdC</set></card>
+		<card><name id="StdC304">The Two Scepters</name><set>StdC</set></card>
+		<card><name id="StdC401">Ambush</name><set>StdC</set></card>
+		<card><name id="StdC402">Car (v2)</name><set>StdC</set></card>
+		<card><name id="StdC403">Car (v3)</name><set>StdC</set></card>
+		<card><name id="StdC404">Dawn of the Solstice</name><set>StdC</set></card>
+		<card><name id="StdC405">Dysentery</name><set>StdC</set></card>
+		<card><name id="StdC406">Efficiophobia</name><set>StdC</set></card>
+		<card><name id="StdC407">Governmental Cover-Up</name><set>StdC</set></card>
+		<card><name id="StdC408">Midnight</name><set>StdC</set></card>
+		<card><name id="StdC410">Succumb to Temptation</name><set>StdC</set></card>
+		<card><name id="StdC501">Arkham Mystical Suply</name><set>StdC</set></card>
+		<card><name id="StdC503">Caverns Beneath the Old Church</name><set>StdC</set></card>
+		<card><name id="StdC504">Congregational Hospital</name><set>StdC</set></card>
+		<card><name id="StdC505">King&apos;s Church Cemetary</name><set>StdC</set></card>
+		<card><name id="StdC506">Lonely Akeley Farmhouse</name><set>StdC</set></card>
+		<card><name id="StdC510">N&apos;Kai</name><set>StdC</set></card>
+		<card><name id="StdC507">Namquit Point</name><set>StdC</set></card>
+		<card><name id="StdC508">Newburyport Historical Society</name><set>StdC</set></card>
+		<card><name id="StdC509">Newburyport Public Library</name><set>StdC</set></card>
+		<card><name id="StdC511">Providence Historical Society</name><set>StdC</set></card>
+		<card><name id="StdC512">Seventh House on the Left</name><set>StdC</set></card>
+		<card><name id="StdC513">The Athenaeum</name><set>StdC</set></card>
+		<card><name id="StdC514">The Forgotten Crypt</name><set>StdC</set></card>
+		<card><name id="StdC515">Waterbury State Hospital</name><set>StdC</set></card>
+		<card><name id="StdC701">Dark Youjng</name><set>StdC</set></card>
+		<card><name id="StdC702">Mi-Go (v3)</name><set>StdC</set></card>
+		<card><name id="StdC703">Mi-Go (v4)</name><set>StdC</set></card>
+		<card><name id="StdC704">N&apos;Gah-Kthun</name><set>StdC</set></card>
+		<card><name id="StdC705">Servant of Glaaki</name><set>StdC</set></card>
+		<card><name id="StdC706">Servitor of the Outer Gods</name><set>StdC</set></card>
+		<card><name id="StdC707">Tulzscha</name><set>StdC</set></card>
+		<card><name id="StdC708">Yithian</name><set>StdC</set></card>
+		<card><name id="StdC801">Command of the Bloody Tongue</name><set>StdC</set></card>
+		<card><name id="StdC802">Dust of Suleiman</name><set>StdC</set></card>
+		<card><name id="StdC803">Petrify</name><set>StdC</set></card>
+		<card><name id="StdC901">Hutchison Cipher</name><set>StdC</set></card>
+		<card><name id="StdC902">Revelations of Glaaki</name><set>StdC</set></card>
+	</superzone>
+	<superzone name="Investigator">
+		<card><name id="StdC001">Bored Clerk</name><set>StdC</set></card>
+		<card><name id="StdC002">Rebellious Youth</name><set>StdC</set></card>
+	</superzone>
+</deck>

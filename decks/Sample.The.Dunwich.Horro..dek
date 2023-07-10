@@ -1,0 +1,62 @@
+<deck version="0.8">
+	<meta>
+		<game>mythos</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="Ltd102">Knee-Deep in Doom</name><set>Limited</set></card>
+		<card><name id="B1MU701">Son of Yog-Sothoth</name><set>B1MU</set></card>
+		<card><name id="StdC701">Dark Young</name><set>StdC</set></card>
+		<card><name id="StdC701">Dark Young</name><set>StdC</set></card>
+		<card><name id="StdC701">Dark Young</name><set>StdC</set></card>
+		<card><name id="StdC701">Dark Young</name><set>StdC</set></card>
+		<card><name id="Ltd720">Pack of Rat Things</name><set>Limited</set></card>
+		<card><name id="Ltd720">Pack of Rat Things</name><set>Limited</set></card>
+		<card><name id="Ltd720">Pack of Rat Things</name><set>Limited</set></card>
+		<card><name id="Ltd720">Pack of Rat Things</name><set>Limited</set></card>
+		<card><name id="RP140">The Dunwich Horror (RP)</name><set>Repointed</set></card>
+		<card><name id="Ltd202">Albert N. Wilmarth</name><set>Limited</set></card>
+		<card><name id="B1MU215">Prof. Wingate Peaslee</name><set>B1MU</set></card>
+		<card><name id="B1MU210">Lavinia Whateley</name><set>B1MU</set></card>
+		<card><name id="B1MU210">Lavinia Whateley</name><set>B1MU</set></card>
+		<card><name id="B1MU214">Old Man Whateley</name><set>B1MU</set></card>
+		<card><name id="B1MU216">Wilbur Whateley</name><set>B1MU</set></card>
+		<card><name id="B1MU905">Necronomicon (Greek)</name><set>B1MU</set></card>
+		<card><name id="B1MU906">Necronomicon (Latin)</name><set>B1MU</set></card>
+		<card><name id="Ltd419">Full Moon</name><set>Limited</set></card>
+		<card><name id="Ltd419">Full Moon</name><set>Limited</set></card>
+		<card><name id="StdC403">Car (v3)</name><set>StdC</set></card>
+		<card><name id="StdC403">Car (v3)</name><set>StdC</set></card>
+		<card><name id="StdC403">Car (v3)</name><set>StdC</set></card>
+		<card><name id="StdC403">Car (v3)</name><set>StdC</set></card>
+		<card><name id="StdS510">Miskatonic University Commons</name><set>StdS</set></card>
+		<card><name id="B1MU515">Miskatonic University Medical School</name><set>B1MU</set></card>
+		<card><name id="B1MU517">Miskatonic University Orne Library</name><set>B1MU</set></card>
+		<card><name id="B1MU517">Miskatonic University Orne Library</name><set>B1MU</set></card>
+		<card><name id="B1MU502">Bishop&apos;s Brook Bridge</name><set>B1MU</set></card>
+		<card><name id="B1MU507">Congregational Church</name><set>B1MU</set></card>
+		<card><name id="B1MU521">Remote Whateley Farmhouse</name><set>B1MU</set></card>
+		<card><name id="B1MU522">Sentinel Hill</name><set>B1MU</set></card>
+		<card><name id="B1MU522">Sentinel Hill</name><set>B1MU</set></card>
+		<card><name id="B1MU523">Seth Bishop Ruins</name><set>B1MU</set></card>
+		<card><name id="StdC205">Ray Stuckey</name><set>StdC</set></card>
+		<card><name id="Ltd418">Flee to Special Room</name><set>Limited</set></card>
+		<card><name id="StdC407">Governmental Cover-Up</name><set>StdC</set></card>
+		<card><name id="Ltd420">Harney Reginald Opens Fire</name><set>Limited</set></card>
+		<card><name id="DL412">Highway Robbery</name><set>Dreamlands</set></card>
+		<card><name id="Ltd439">Townsfolk Riot</name><set>Limited</set></card>
+		<card><name id="StdS401">Agoraphobia</name><set>StdS</set></card>
+		<card><name id="Ltd505">Arkham Sanitarium</name><set>Limited</set></card>
+		<card><name id="Ltd526">Massachusetts State Hospital</name><set>Limited</set></card>
+		<card><name id="Ltd507">Asylum for the Deranged</name><set>Limited</set></card>
+		<card><name id="B3LN802">Consume Likeness</name><set>B3LN</set></card>
+		<card><name id="B2CR819">Voola Ritual</name><set>B2CR</set></card>
+		<card><name id="B2CR816">Soul Singing</name><set>B2CR</set></card>
+		<card><name id="B2CR802">Body Warping of Gorgoroth</name><set>B2CR</set></card>
+		<card><name id="B2CR803">Call Power of Nyambe</name><set>B2CR</set></card>
+		<card><name id="B2CR805">Devolution</name><set>B2CR</set></card>
+		<card><name id="B3LN902">Kitab Al Azif-Arabic</name><set>B3LN</set></card>
+	</superzone>
+	<superzone name="Investigator">
+		<card><name id="Ltd002">Brilliant Egyptian Archaeologist</name><set>Limited</set></card>
+	</superzone>
+</deck>

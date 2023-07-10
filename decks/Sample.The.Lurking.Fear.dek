@@ -1,0 +1,62 @@
+<deck version="0.8">
+	<meta>
+		<game>mythos</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="DL215">Lin Carter</name><set>Dreamlands</set></card>
+		<card><name id="NA218">Professor L.N. Isinwyll</name><set>New Aeon</set></card>
+		<card><name id="NA217">Patricia Bridgitte Jodoin</name><set>New Aeon</set></card>
+		<card><name id="B1MU206">Erich Zann</name><set>B1MU</set></card>
+		<card><name id="NA216">Ozzy Orne</name><set>New Aeon</set></card>
+		<card><name id="NA213">Johnny Booger</name><set>New Aeon</set></card>
+		<card><name id="StdS302">Cast-Iron Skillet</name><set>StdS</set></card>
+		<card><name id="StdC301">.32 Revolver</name><set>StdC</set></card>
+		<card><name id="Ltd435">Rhabdophobia</name><set>Limited</set></card>
+		<card><name id="Ltd436">Scotophobia</name><set>Limited</set></card>
+		<card><name id="NA433">Serial Killer</name><set>New Aeon</set></card>
+		<card><name id="NA433">Serial Killer</name><set>New Aeon</set></card>
+		<card><name id="Ltd525">Martense Mansion</name><set>Limited</set></card>
+		<card><name id="Ltd525">Martense Mansion</name><set>Limited</set></card>
+		<card><name id="Ltd537">Tempest Mountain</name><set>Limited</set></card>
+		<card><name id="Ltd537">Tempest Mountain</name><set>Limited</set></card>
+		<card><name id="NA526">Lefferts Corners</name><set>New Aeon</set></card>
+		<card><name id="NA530">Maple Hill</name><set>New Aeon</set></card>
+		<card><name id="NA530">Maple Hill</name><set>New Aeon</set></card>
+		<card><name id="NA519">Greenwich Village</name><set>New Aeon</set></card>
+		<card><name id="NA519">Greenwich Village</name><set>New Aeon</set></card>
+		<card><name id="NA513">Eiffel Tower</name><set>New Aeon</set></card>
+		<card><name id="NA538">Rue D&apos;Auseil</name><set>New Aeon</set></card>
+		<card><name id="RP126">Out Of My Mind (RP)</name><set>Repointed</set></card>
+		<card><name id="DL906">Pnakotic Manuscripts</name><set>Dreamlands</set></card>
+		<card><name id="DL906">Pnakotic Manuscripts</name><set>Dreamlands</set></card>
+		<card><name id="NA442">Yithian Psychic Possession</name><set>New Aeon</set></card>
+		<card><name id="Ltd444">Yithian Mental Contact</name><set>Limited</set></card>
+		<card><name id="NA504">Carlyle House Museum</name><set>New Aeon</set></card>
+		<card><name id="NA512">Dr. MacDonald&apos;s House</name><set>New Aeon</set></card>
+		<card><name id="NA507">CitÚ Tatoue</name><set>New Aeon</set></card>
+		<card><name id="NA529">Maison Nationale De Sant</name><set>New Aeon</set></card>
+		<card><name id="StdS503">Bellevue Hospital</name><set>StdS</set></card>
+		<card><name id="RP155">The Theron Marks Society (RP)</name><set>Repointed</set></card>
+		<card><name id="NA211">Howard Lovecraft (v3)</name><set>New Aeon</set></card>
+		<card><name id="B2CR904">Eltdown Shards</name><set>B2CR</set></card>
+		<card><name id="Ltd715">Martense Kin</name><set>Limited</set></card>
+		<card><name id="Ltd715">Martense Kin</name><set>Limited</set></card>
+		<card><name id="Ltd715">Martense Kin</name><set>Limited</set></card>
+		<card><name id="Ltd715">Martense Kin</name><set>Limited</set></card>
+		<card><name id="B2CR804">Create Time Warp</name><set>B2CR</set></card>
+		<card><name id="NA805">Darkness of the Void</name><set>New Aeon</set></card>
+		<card><name id="Ltd808">Keeness of Two Alike</name><set>Limited</set></card>
+		<card><name id="NA813">Monatomic Translocation</name><set>New Aeon</set></card>
+		<card><name id="Ltd804">Circles of Thaol</name><set>Limited</set></card>
+		<card><name id="Ltd815">Wave of Oblivion</name><set>Limited</set></card>
+		<card><name id="NA308">Disturbing Portrait</name><set>New Aeon</set></card>
+		<card><name id="Ltd314">Star Stone of Mnar</name><set>Limited</set></card>
+		<card><name id="DL310">The Silver Key</name><set>Dreamlands</set></card>
+		<card><name id="NA321">Time Machine</name><set>New Aeon</set></card>
+		<card><name id="B3LN403">Surprise Meeting</name><set>B3LN</set></card>
+		<card><name id="B3LN403">Surprise Meeting</name><set>B3LN</set></card>
+	</superzone>
+	<superzone name="Investigator">
+		<card><name id="Ltd003">Capable Graduate Student</name><set>Limited</set></card>
+	</superzone>
+</deck>

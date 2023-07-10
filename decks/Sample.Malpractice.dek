@@ -1,0 +1,62 @@
+<deck version="0.8">
+	<meta>
+		<game>mythos</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="RP143">The Great Epidemic (RP)</name><set>Repointed</set></card>
+		<card><name id="NA204">Dr. Carl Jung</name><set>New Aeon</set></card>
+		<card><name id="B1MU205">Dr. Allen Halsey</name><set>B1MU</set></card>
+		<card><name id="Ltd211">Dr. Marinus Bicknell Willett</name><set>Limited</set></card>
+		<card><name id="B1MU209">Herbert West</name><set>B1MU</set></card>
+		<card><name id="StdC404">Dawn of the Solstice</name><set>StdC</set></card>
+		<card><name id="Ltd430">New Moon</name><set>Limited</set></card>
+		<card><name id="Ltd430">New Moon</name><set>Limited</set></card>
+		<card><name id="NA441">Unexpected Eclipse</name><set>New Aeon</set></card>
+		<card><name id="Ltd443">Waxing Moon</name><set>Limited</set></card>
+		<card><name id="Ltd443">Waxing Moon</name><set>Limited</set></card>
+		<card><name id="Ltd441">Typhoid</name><set>Limited</set></card>
+		<card><name id="Ltd441">Typhoid</name><set>Limited</set></card>
+		<card><name id="Ltd505">Arkham Sanitarium</name><set>Limited</set></card>
+		<card><name id="Ltd526">Massachusetts State Hospital</name><set>Limited</set></card>
+		<card><name id="Ltd507">Asylum for the Deranged</name><set>Limited</set></card>
+		<card><name id="Ltd727">Zombies (v1)</name><set>Limited</set></card>
+		<card><name id="Ltd727">Zombies (v1)</name><set>Limited</set></card>
+		<card><name id="Ltd727">Zombies (v1)</name><set>Limited</set></card>
+		<card><name id="RP133">Seeking Everlasting Life I (RP)</name><set>Repointed</set></card>
+		<card><name id="StdS206">Luther Harden</name><set>StdS</set></card>
+		<card><name id="B3LN210">Keziah Mason</name><set>B3LN</set></card>
+		<card><name id="B1MU216">Wilbur Whateley</name><set>B1MU</set></card>
+		<card><name id="Ltd402">An Unexpected Calamity</name><set>Limited</set></card>
+		<card><name id="Ltd402">An Unexpected Calamity</name><set>Limited</set></card>
+		<card><name id="B3LN901">Book of Eibon (English)</name><set>B3LN</set></card>
+		<card><name id="Ltd904">Cultes Des Goules</name><set>Limited</set></card>
+		<card><name id="B3LN808">Resurrection</name><set>B3LN</set></card>
+		<card><name id="B3LN808">Resurrection</name><set>B3LN</set></card>
+		<card><name id="RP134">Seeking Everlasting Life II (RP)</name><set>Repointed</set></card>
+		<card><name id="B3LN301">Grecian Lekythos</name><set>B3LN</set></card>
+		<card><name id="B3LN301">Grecian Lekythos</name><set>B3LN</set></card>
+		<card><name id="Ltd721">Rhan Tegoth</name><set>Limited</set></card>
+		<card><name id="Ltd311">Shining Trapezohedron</name><set>Limited</set></card>
+		<card><name id="Ltd413">Discover Secret Cache</name><set>Limited</set></card>
+		<card><name id="StdS407">Train (v1)</name><set>StdS</set></card>
+		<card><name id="StdS407">Train (v1)</name><set>StdS</set></card>
+		<card><name id="Ltd501">197 E. Pickman Street</name><set>Limited</set></card>
+		<card><name id="StdS502">Arkham Police Department</name><set>StdS</set></card>
+		<card><name id="StdS505">Boston &amp; Maine Train Station</name><set>StdS</set></card>
+		<card><name id="StdS505">Boston &amp; Maine Train Station</name><set>StdS</set></card>
+		<card><name id="Ltd521">Hangman&apos;s Hill</name><set>Limited</set></card>
+		<card><name id="B1MU517">Miskatonic University Orne Library</name><set>B1MU</set></card>
+		<card><name id="B1MU518">Miskatonic University Science Annex</name><set>B1MU</set></card>
+		<card><name id="Ltd529">Old Arkham Cemetery</name><set>Limited</set></card>
+		<card><name id="Ltd713">Goody Fowler&apos;s Ghost</name><set>Limited</set></card>
+		<card><name id="NA802">Call the Unnamed One</name><set>New Aeon</set></card>
+		<card><name id="Ltd808">Keeness of Two Alike</name><set>Limited</set></card>
+		<card><name id="B2CR802">Body Warping of Gorgoroth</name><set>B2CR</set></card>
+		<card><name id="B2CR818">Thirty-Five Abominable Adulations</name><set>B2CR</set></card>
+		<card><name id="Ltd906">King in Yellow (French)</name><set>Limited</set></card>
+		<card><name id="Ltd910">Seven Cryptical Books of H&apos;san (English)</name><set>Limited</set></card>
+	</superzone>
+	<superzone name="Investigator">
+		<card><name id="NA009">Skeptical Pathologist</name><set>New Aeon</set></card>
+	</superzone>
+</deck>

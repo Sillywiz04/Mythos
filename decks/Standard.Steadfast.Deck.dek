@@ -1,0 +1,60 @@
+<deck version="0.8">
+	<meta>
+		<game>mythos</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="StdS101">Arkham Horror</name><set>StdS</set></card>
+		<card><name id="StdS102">Searching for Laban Shrewsbury</name><set>StdS</set></card>
+		<card><name id="StdS103">The Mystery at Martin&apos;s Beach</name><set>StdS</set></card>
+		<card><name id="StdS104">Two Cities and a Tale</name><set>StdS</set></card>
+		<card><name id="StdS201">Frank Belknap Long</name><set>StdS</set></card>
+		<card><name id="StdS202">Granny Orne</name><set>StdS</set></card>
+		<card><name id="StdS203">Harry Houdini</name><set>StdS</set></card>
+		<card><name id="StdS204">Howard Lovecraft (v4)</name><set>StdS</set></card>
+		<card><name id="StdS205">Laban Shrewsbury</name><set>StdS</set></card>
+		<card><name id="StdS206">Luther Harden</name><set>StdS</set></card>
+		<card><name id="StdS207">Mrs. Sonia Lovecraft</name><set>StdS</set></card>
+		<card><name id="StdS208">Samuel Winsor</name><set>StdS</set></card>
+		<card><name id="StdS209">The Terrible Old Man</name><set>StdS</set></card>
+		<card><name id="StdS301">.30/&apos;06 Bold-Action Rifle</name><set>StdS</set></card>
+		<card><name id="StdS302">Cast-Iron Skillet</name><set>StdS</set></card>
+		<card><name id="StdS303">Dr. Hammond&apos;s Nerve &amp; Brain Tablets</name><set>StdS</set></card>
+		<card><name id="StdS304">Faithful Hounds</name><set>StdS</set></card>
+		<card><name id="StdS305">Lightning Gun</name><set>StdS</set></card>
+		<card><name id="StdS306">Tiara of Opulent Fantasy</name><set>StdS</set></card>
+		<card><name id="StdS401">Agoraphobia</name><set>StdS</set></card>
+		<card><name id="StdS402">Cthulhu Rising</name><set>StdS</set></card>
+		<card><name id="StdS403">Downpour</name><set>StdS</set></card>
+		<card><name id="StdS405">High Noon</name><set>StdS</set></card>
+		<card><name id="StdS001">Gifted Musician</name><set>StdS</set></card>
+		<card><name id="StdS002">Soulful Jazz Singer</name><set>StdS</set></card>
+		<card><name id="StdS501">American Museum of Natural History</name><set>StdS</set></card>
+		<card><name id="StdS502">Arkham Gazette</name><set>StdS</set></card>
+		<card><name id="StdS502">Arkham Police Department</name><set>StdS</set></card>
+		<card><name id="StdS503">Bellevue Hospital</name><set>StdS</set></card>
+		<card><name id="StdS505">Boston &amp; Maine Train Station</name><set>StdS</set></card>
+		<card><name id="StdS506">Central Hill</name><set>StdS</set></card>
+		<card><name id="StdS507">Chelsea Book Shop</name><set>StdS</set></card>
+		<card><name id="StdS508">Essex Institute</name><set>StdS</set></card>
+		<card><name id="StdS509">Granny Orne&apos;s House</name><set>StdS</set></card>
+		<card><name id="StdS512">Martin&apos;s Beach</name><set>StdS</set></card>
+		<card><name id="StdS510">Miskatonic University Commons</name><set>StdS</set></card>
+		<card><name id="StdS511">Miss Greene&apos;s Home</name><set>StdS</set></card>
+		<card><name id="StdS513">Old Congregational Church</name><set>StdS</set></card>
+		<card><name id="StdS514">Penn Central Train Station</name><set>StdS</set></card>
+		<card><name id="StdS514">Red Hook</name><set>StdS</set></card>
+		<card><name id="StdS516">The House on Water Street</name><set>StdS</set></card>
+		<card><name id="StdS517">The Old Gibbett</name><set>StdS</set></card>
+		<card><name id="StdS701">Deep One</name><set>StdS</set></card>
+		<card><name id="StdS705">Insect from Shaggai (v2)</name><set>StdS</set></card>
+		<card><name id="StdS706">The Martin&apos;s Beach Monster</name><set>StdS</set></card>
+		<card><name id="StdS801">Blasphemous Obeisance</name><set>StdS</set></card>
+		<card><name id="StdS901">Letter From a Friend</name><set>StdS</set></card>
+		<card><name id="StdS407">Train (v1)</name><set>StdS</set></card>
+		<card><name id="StdS408">Train (v2)</name><set>StdS</set></card>
+	</superzone>
+	<superzone name="Investigator">
+		<card><name id="StdS001">Gifted Musician</name><set>StdS</set></card>
+		<card><name id="StdS002">Soulful Jazz Singer</name><set>StdS</set></card>
+	</superzone>
+</deck>

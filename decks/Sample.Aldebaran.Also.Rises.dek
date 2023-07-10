@@ -1,0 +1,62 @@
+<deck version="0.8">
+	<meta>
+		<game>mythos</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="RP137">The Auction (RP)</name><set>Repointed</set></card>
+		<card><name id="StdC504">Congregational Hospital</name><set>StdC</set></card>
+		<card><name id="Ltd510">Brown University John Hay Library</name><set>Limited</set></card>
+		<card><name id="Ltd514">Church of Starry Wisdom</name><set>Limited</set></card>
+		<card><name id="StdC505">King&apos;s Church Cemetary</name><set>StdC</set></card>
+		<card><name id="B1MU525">The Auction House</name><set>B1MU</set></card>
+		<card><name id="B1MU525">The Auction House</name><set>B1MU</set></card>
+		<card><name id="B1MU901">De Vermiis Mysteriis</name><set>B1MU</set></card>
+		<card><name id="B1MU901">De Vermiis Mysteriis</name><set>B1MU</set></card>
+		<card><name id="Ltd315">The Brazen Head</name><set>Limited</set></card>
+		<card><name id="Ltd432">Police investigation</name><set>Limited</set></card>
+		<card><name id="Ltd432">Police investigation</name><set>Limited</set></card>
+		<card><name id="Ltd438">Thieves in your Attic</name><set>Limited</set></card>
+		<card><name id="Ltd438">Thieves in your Attic</name><set>Limited</set></card>
+		<card><name id="RP139">The Curious Parcel (RP)</name><set>Repointed</set></card>
+		<card><name id="B2CR203">George Gammell Angel</name><set>B2CR</set></card>
+		<card><name id="B2CR206">William Channing Webb</name><set>B2CR</set></card>
+		<card><name id="DL215">Lin Carter</name><set>Dreamlands</set></card>
+		<card><name id="Ltd528">North Burial Ground</name><set>Limited</set></card>
+		<card><name id="B1MU524">Stonehenge</name><set>B1MU</set></card>
+		<card><name id="B1MU524">Stonehenge</name><set>B1MU</set></card>
+		<card><name id="StdC507">Namquit Point</name><set>StdC</set></card>
+		<card><name id="B1MU501">Bibliotheque Nationale</name><set>B1MU</set></card>
+		<card><name id="StdC513">The Athenaeum</name><set>StdC</set></card>
+		<card><name id="B1MU801">Angels if Tagh Clatur</name><set>B1MU</set></card>
+		<card><name id="B2CR808">Fly</name><set>B2CR</set></card>
+		<card><name id="StdC803">Petrify</name><set>StdC</set></card>
+		<card><name id="Ltd815">Wave of Oblivion</name><set>Limited</set></card>
+		<card><name id="RP153">The Strange Case Of Charles Fort (RP)</name><set>Repointed</set></card>
+		<card><name id="B2CR401">Aldebaran Moves in the Sky</name><set>B2CR</set></card>
+		<card><name id="B2CR401">Aldebaran Moves in the Sky</name><set>B2CR</set></card>
+		<card><name id="Ltd414">Drought</name><set>Limited</set></card>
+		<card><name id="Ltd414">Drought</name><set>Limited</set></card>
+		<card><name id="Ltd415">Earthquake</name><set>Limited</set></card>
+		<card><name id="Ltd415">Earthquake</name><set>Limited</set></card>
+		<card><name id="NA441">Unexpected Eclipse</name><set>New Aeon</set></card>
+		<card><name id="NA441">Unexpected Eclipse</name><set>New Aeon</set></card>
+		<card><name id="Ltd419">Full Moon</name><set>Limited</set></card>
+		<card><name id="Ltd419">Full Moon</name><set>Limited</set></card>
+		<card><name id="DL407">Blizzard</name><set>Dreamlands</set></card>
+		<card><name id="B1MU405">Typhoon</name><set>B1MU</set></card>
+		<card><name id="B1MU529">The Office of Dr. Freud</name><set>B1MU</set></card>
+		<card><name id="B1MU402">Dirigible</name><set>B1MU</set></card>
+		<card><name id="B1MU402">Dirigible</name><set>B1MU</set></card>
+		<card><name id="B1MU402">Dirigible</name><set>B1MU</set></card>
+		<card><name id="B2CR705">Hastur</name><set>B2CR</set></card>
+		<card><name id="B2CR702">Byakhee</name><set>B2CR</set></card>
+		<card><name id="B2CR702">Byakhee</name><set>B2CR</set></card>
+		<card><name id="B2CR702">Byakhee</name><set>B2CR</set></card>
+		<card><name id="NA812">Mental Suggestion</name><set>New Aeon</set></card>
+		<card><name id="Ltd901">Book of Dzyan (English)</name><set>Limited</set></card>
+		<card><name id="StdC801">Command of the Bloody Tongue</name><set>StdC</set></card>
+	</superzone>
+	<superzone name="Investigator">
+		<card><name id="Ltd017">Staid University Professor</name><set>Limited</set></card>
+	</superzone>
+</deck>

@@ -1,0 +1,63 @@
+<deck version="0.8">
+	<meta>
+		<game>mythos</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="RP116">Day the Sun Stood Still (RP)</name><set>Repointed</set></card>
+		<card><name id="NA907">Zanthu Tablets</name><set>New Aeon</set></card>
+		<card><name id="NA907">Zanthu Tablets</name><set>New Aeon</set></card>
+		<card><name id="NA407">Blink of an Eye</name><set>New Aeon</set></card>
+		<card><name id="NA407">Blink of an Eye</name><set>New Aeon</set></card>
+		<card><name id="NA441">Unexpected Eclipse</name><set>New Aeon</set></card>
+		<card><name id="Ltd502">Ammi Pierce&apos;s Tottering Cottage</name><set>Limited</set></card>
+		<card><name id="Ltd509">Bolton</name><set>Limited</set></card>
+		<card><name id="Ltd509">Bolton</name><set>Limited</set></card>
+		<card><name id="Ltd540">The Lonely House in the Woods</name><set>Limited</set></card>
+		<card><name id="Ltd527">Nahum Gardner Place</name><set>Limited</set></card>
+		<card><name id="StdS512">Martin&apos;s Beach</name><set>StdS</set></card>
+		<card><name id="StdS512">Martin&apos;s Beach</name><set>StdS</set></card>
+		<card><name id="Ltd534">Sefton Asylum</name><set>Limited</set></card>
+		<card><name id="RP147">The Mystery at Martin&apos;s Beach (RP)</name><set>Repointed</set></card>
+		<card><name id="B2CR206">William Channing Webb</name><set>B2CR</set></card>
+		<card><name id="StdS208">Samuel Winsor</name><set>StdS</set></card>
+		<card><name id="Ltd204">Ammi Pierce</name><set>Limited</set></card>
+		<card><name id="Ltd220">Nahum Gardner</name><set>Limited</set></card>
+		<card><name id="StdS303">Dr. Hammond&apos;s Nerve &amp; Brain Tablets</name><set>StdS</set></card>
+		<card><name id="StdS303">Dr. Hammond&apos;s Nerve &amp; Brain Tablets</name><set>StdS</set></card>
+		<card><name id="StdS402">Cthulhu Rising</name><set>StdS</set></card>
+		<card><name id="Ltd411">Dendrophobia</name><set>Limited</set></card>
+		<card><name id="Ltd417">Eosophobia</name><set>Limited</set></card>
+		<card><name id="StdS706">The Martin&apos;s Beach Monster</name><set>StdS</set></card>
+		<card><name id="Ltd104">One Dark and Stormy Night</name><set>Limited</set></card>
+		<card><name id="StdC403">Car (v3)</name><set>StdC</set></card>
+		<card><name id="StdC403">Car (v3)</name><set>StdC</set></card>
+		<card><name id="StdC403">Car (v3)</name><set>StdC</set></card>
+		<card><name id="StdC403">Car (v3)</name><set>StdC</set></card>
+		<card><name id="Ltd434">Powerful Storms</name><set>Limited</set></card>
+		<card><name id="Ltd434">Powerful Storms</name><set>Limited</set></card>
+		<card><name id="Ltd514">Church of Starry Wisdom</name><set>Limited</set></card>
+		<card><name id="Ltd519">First Baptist Church</name><set>Limited</set></card>
+		<card><name id="StdC202">Dr. Allen</name><set>StdC</set></card>
+		<card><name id="Ltd307">Mist Projector</name><set>Limited</set></card>
+		<card><name id="Ltd317">Tommygun</name><set>Limited</set></card>
+		<card><name id="StdC407">Governmental Cover-Up</name><set>StdC</set></card>
+		<card><name id="Ltd439">Townsfolk Riot</name><set>Limited</set></card>
+		<card><name id="StdS403">Downpour</name><set>StdS</set></card>
+		<card><name id="StdC504">Congregational Hospital</name><set>StdC</set></card>
+		<card><name id="StdS503">Bellevue Hospital</name><set>StdS</set></card>
+		<card><name id="Ltd807">Hands of Colubra</name><set>Limited</set></card>
+		<card><name id="B2CR802">Body Warping of Gorgoroth</name><set>B2CR</set></card>
+		<card><name id="B2CR803">Call Power of Nyambe</name><set>B2CR</set></card>
+		<card><name id="B2CR805">Devolution</name><set>B2CR</set></card>
+		<card><name id="Ltd701">Colour Out Of Space (v2)</name><set>Limited</set></card>
+		<card><name id="Ltd701">Colour Out Of Space (v2)</name><set>Limited</set></card>
+		<card><name id="Ltd701">Colour Out Of Space (v2)</name><set>Limited</set></card>
+		<card><name id="NA802">Call the Unnamed One</name><set>New Aeon</set></card>
+		<card><name id="NA802">Call the Unnamed One</name><set>New Aeon</set></card>
+		<card><name id="StdC704">N&apos;Gah-Kthun</name><set>StdC</set></card>
+	</superzone>
+	<superzone name="Investigator">
+		<card><name id="StdS002">Soulful Jazz Singer</name><set>StdS</set></card>
+		<card><name id="StdS001">Gifted Musician</name><set>StdS</set></card>
+	</superzone>
+</deck>

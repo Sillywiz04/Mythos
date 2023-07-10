@@ -1,0 +1,62 @@
+<deck version="0.8">
+	<meta>
+		<game>mythos</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="RP118">If I Ran the Zoog (RP)</name><set>Repointed</set></card>
+		<card><name id="DL213">King Kuranes</name><set>Dreamlands</set></card>
+		<card><name id="DL213">King Kuranes</name><set>Dreamlands</set></card>
+		<card><name id="DL402">Angry Zoogs</name><set>Dreamlands</set></card>
+		<card><name id="DL402">Angry Zoogs</name><set>Dreamlands</set></card>
+		<card><name id="DL401">Algol</name><set>Dreamlands</set></card>
+		<card><name id="DL401">Algol</name><set>Dreamlands</set></card>
+		<card><name id="DL408">Cats of Ulthar</name><set>Dreamlands</set></card>
+		<card><name id="DL408">Cats of Ulthar</name><set>Dreamlands</set></card>
+		<card><name id="DL408">Cats of Ulthar</name><set>Dreamlands</set></card>
+		<card><name id="DL430">Yak</name><set>Dreamlands</set></card>
+		<card><name id="DL430">Yak</name><set>Dreamlands</set></card>
+		<card><name id="DL430">Yak</name><set>Dreamlands</set></card>
+		<card><name id="DL430">Yak</name><set>Dreamlands</set></card>
+		<card><name id="DL544">The Opal Throne</name><set>Dreamlands</set></card>
+		<card><name id="DL544">The Opal Throne</name><set>Dreamlands</set></card>
+		<card><name id="DL552">The Temple of Bokrug</name><set>Dreamlands</set></card>
+		<card><name id="DL557">Vale of Pnoth</name><set>Dreamlands</set></card>
+		<card><name id="DL557">Vale of Pnoth</name><set>Dreamlands</set></card>
+		<card><name id="DL704">Buopoth</name><set>Dreamlands</set></card>
+		<card><name id="DL704">Buopoth</name><set>Dreamlands</set></card>
+		<card><name id="DL712">Gug</name><set>Dreamlands</set></card>
+		<card><name id="DL712">Gug</name><set>Dreamlands</set></card>
+		<card><name id="DL722">Voonith</name><set>Dreamlands</set></card>
+		<card><name id="DL722">Voonith</name><set>Dreamlands</set></card>
+		<card><name id="DL205">Cat Chieftain</name><set>Dreamlands</set></card>
+		<card><name id="DL205">Cat Chieftain</name><set>Dreamlands</set></card>
+		<card><name id="DL516">Hovel of the Cat Haters</name><set>Dreamlands</set></card>
+		<card><name id="DL516">Hovel of the Cat Haters</name><set>Dreamlands</set></card>
+		<card><name id="DL541">The Market-Place</name><set>Dreamlands</set></card>
+		<card><name id="DL541">The Market-Place</name><set>Dreamlands</set></card>
+		<card><name id="DL705">Cat from Saturn</name><set>Dreamlands</set></card>
+		<card><name id="DL705">Cat from Saturn</name><set>Dreamlands</set></card>
+		<card><name id="DL816">Petition of Menes</name><set>Dreamlands</set></card>
+		<card><name id="DL816">Petition of Menes</name><set>Dreamlands</set></card>
+		<card><name id="DL221">Taran-Ish</name><set>Dreamlands</set></card>
+		<card><name id="DL203">Barzai The Wise</name><set>Dreamlands</set></card>
+		<card><name id="B3LN403">Surprise Meeting</name><set>B3LN</set></card>
+		<card><name id="B3LN403">Surprise Meeting</name><set>B3LN</set></card>
+		<card><name id="DL553">The Temple of Loveliness at Kiran</name><set>Dreamlands</set></card>
+		<card><name id="DL532">Temple of the Elder Ones</name><set>Dreamlands</set></card>
+		<card><name id="DL807">Deflection</name><set>Dreamlands</set></card>
+		<card><name id="DL812">Green Mist of Doom</name><set>Dreamlands</set></card>
+		<card><name id="B2CR801">Become Spectral Hunter</name><set>B2CR</set></card>
+		<card><name id="B3LN804">Create Gate</name><set>B3LN</set></card>
+		<card><name id="B2CR804">Create Time Warp</name><set>B2CR</set></card>
+		<card><name id="NA802">Call the Unnamed One</name><set>New Aeon</set></card>
+		<card><name id="StdC802">Dust of Suleiman</name><set>StdC</set></card>
+		<card><name id="B2CR808">Fly</name><set>B2CR</set></card>
+		<card><name id="B1MU901">De Vermiis Mysteriis</name><set>B1MU</set></card>
+		<card><name id="DL909">The Book of the Black Stones</name><set>Dreamlands</set></card>
+		<card><name id="RP146">The Meow Ceremony (RP)</name><set>Repointed</set></card>
+	</superzone>
+	<superzone name="Investigator">
+		<card><name id="DL008">Unacknowledged Author</name><set>Dreamlands</set></card>
+	</superzone>
+</deck>

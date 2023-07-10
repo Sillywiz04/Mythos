@@ -1,0 +1,62 @@
+<deck version="0.8">
+	<meta>
+		<game>mythos</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="RP111">Brotherhood of the Black Pharaoh (RP)</name><set>Repointed</set></card>
+		<card><name id="RP111">Brotherhood of the Black Pharaoh (RP)</name><set>Repointed</set></card>
+		<card><name id="B3LN202">Ahmed</name><set>B3LN</set></card>
+		<card><name id="B3LN205">Faraz Najir</name><set>B3LN</set></card>
+		<card><name id="B3LN206">Ibrahim Amin</name><set>B3LN</set></card>
+		<card><name id="B2CR304">&quot;R&apos;lyeh Disk, Left Fragment &quot;</name><set>B2CR</set></card>
+		<card><name id="B2CR305">&quot;R&apos;lyeh Disk, Right Fragment &quot;</name><set>B2CR</set></card>
+		<card><name id="B2CR306">&quot;R&apos;lyeh Disk, Top Fragment &quot;</name><set>B2CR</set></card>
+		<card><name id="Ltd311">Shining Trapezohedron</name><set>Limited</set></card>
+		<card><name id="B3LN902">Kitab Al Azif-Arabic</name><set>B3LN</set></card>
+		<card><name id="Ltd908">&quot;Necronomicon, Dee Ed.&quot;</name><set>Limited</set></card>
+		<card><name id="B3LN904">R&apos;lyeh Text (Chinese)</name><set>B3LN</set></card>
+		<card><name id="B3LN503">Alexandria Museum of Antiquities</name><set>B3LN</set></card>
+		<card><name id="B3LN509">Grivas Old and New Books</name><set>B3LN</set></card>
+		<card><name id="B3LN519">Tomb of the Prophet Daniel</name><set>B3LN</set></card>
+		<card><name id="B3LN502">Al-Azhar University</name><set>B3LN</set></card>
+		<card><name id="B3LN510">Hospital for the Insane</name><set>B3LN</set></card>
+		<card><name id="B3LN512">Mosque of Ibn Tulun</name><set>B3LN</set></card>
+		<card><name id="B3LN517">The Muski</name><set>B3LN</set></card>
+		<card><name id="B3LN517">The Muski</name><set>B3LN</set></card>
+		<card><name id="B3LN520">Tree of Sayede Mandura</name><set>B3LN</set></card>
+		<card><name id="B3LN508">Great Temple at Karnak</name><set>B3LN</set></card>
+		<card><name id="B3LN521">Valley of the Kings</name><set>B3LN</set></card>
+		<card><name id="B3LN501">Akhenaten&apos;s Tomb</name><set>B3LN</set></card>
+		<card><name id="RP135">Summon Great Cthulhu (RP)</name><set>Repointed</set></card>
+		<card><name id="DL428">The White Ship</name><set>Dreamlands</set></card>
+		<card><name id="DL428">The White Ship</name><set>Dreamlands</set></card>
+		<card><name id="Ltd443">Waxing Moon</name><set>Limited</set></card>
+		<card><name id="Ltd443">Waxing Moon</name><set>Limited</set></card>
+		<card><name id="B2CR703">Cthulhu</name><set>B2CR</set></card>
+		<card><name id="B2CR703">Cthulhu</name><set>B2CR</set></card>
+		<card><name id="DL204">Captain of the White Ship</name><set>Dreamlands</set></card>
+		<card><name id="DL204">Captain of the White Ship</name><set>Dreamlands</set></card>
+		<card><name id="StdS402">Cthulhu Rising</name><set>StdS</set></card>
+		<card><name id="Ltd426">Influenza</name><set>Limited</set></card>
+		<card><name id="Ltd428">Instability in the Mythos</name><set>Limited</set></card>
+		<card><name id="Ltd422">Hurricane</name><set>Limited</set></card>
+		<card><name id="B3LN402">Camel</name><set>B3LN</set></card>
+		<card><name id="B3LN402">Camel</name><set>B3LN</set></card>
+		<card><name id="B2CR706">Star Spawn of Cthulhu</name><set>B2CR</set></card>
+		<card><name id="B2CR706">Star Spawn of Cthulhu</name><set>B2CR</set></card>
+		<card><name id="B2CR706">Star Spawn of Cthulhu</name><set>B2CR</set></card>
+		<card><name id="B2CR706">Star Spawn of Cthulhu</name><set>B2CR</set></card>
+		<card><name id="B2CR810">Mao Ceremony</name><set>B2CR</set></card>
+		<card><name id="B2CR819">Voola Ritual</name><set>B2CR</set></card>
+		<card><name id="B2CR801">Become Spectral Hunter</name><set>B2CR</set></card>
+		<card><name id="NA810">Grasp Of Cthulhu</name><set>New Aeon</set></card>
+		<card><name id="B3LN807">Remortification</name><set>B3LN</set></card>
+		<card><name id="B2CR803">Call Power of Nyambe</name><set>B2CR</set></card>
+		<card><name id="DL818">The Awful Doom of Cerrit</name><set>Dreamlands</set></card>
+		<card><name id="Ltd308">Paracelsus&apos; Sword</name><set>Limited</set></card>
+		<card><name id="B3LN214">T.E. Lawrence</name><set>B3LN</set></card>
+	</superzone>
+	<superzone name="Investigator">
+		<card><name id="Ltd011">Inquisitive Chinese Intellectual</name><set>Limited</set></card>
+	</superzone>
+</deck>

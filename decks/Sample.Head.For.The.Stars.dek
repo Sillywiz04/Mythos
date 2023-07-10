@@ -1,0 +1,62 @@
+<deck version="0.8">
+	<meta>
+		<game>mythos</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="StdC104">Whispers in Darkness</name><set>StdC</set></card>
+		<card><name id="StdC204">Henry Wentworth Akeley</name><set>StdC</set></card>
+		<card><name id="StdC204">Henry Wentworth Akeley</name><set>StdC</set></card>
+		<card><name id="StdC303">Speech Machine</name><set>StdC</set></card>
+		<card><name id="B2CR904">Eltdown Shards</name><set>B2CR</set></card>
+		<card><name id="B2CR904">Eltdown Shards</name><set>B2CR</set></card>
+		<card><name id="StdC402">Car (v2)</name><set>StdC</set></card>
+		<card><name id="StdC402">Car (v2)</name><set>StdC</set></card>
+		<card><name id="StdC402">Car (v2)</name><set>StdC</set></card>
+		<card><name id="StdC407">Governmental Cover-Up</name><set>StdC</set></card>
+		<card><name id="StdC407">Governmental Cover-Up</name><set>StdC</set></card>
+		<card><name id="StdC506">Lonely Akeley Farmhouse</name><set>StdC</set></card>
+		<card><name id="StdC506">Lonely Akeley Farmhouse</name><set>StdC</set></card>
+		<card><name id="StdC704">N&apos;Gah-Kthun</name><set>StdC</set></card>
+		<card><name id="RP160">Yuggoth Attacks! (RP)</name><set>Repointed</set></card>
+		<card><name id="StdS305">Lightning Gun</name><set>StdS</set></card>
+		<card><name id="StdC304">The Two Scepters</name><set>StdC</set></card>
+		<card><name id="StdS304">Faithful Hounds</name><set>StdS</set></card>
+		<card><name id="StdS304">Faithful Hounds</name><set>StdS</set></card>
+		<card><name id="Ltd306">Mi-Go Braincase</name><set>Limited</set></card>
+		<card><name id="Ltd306">Mi-Go Braincase</name><set>Limited</set></card>
+		<card><name id="DL414">Nightmare</name><set>Dreamlands</set></card>
+		<card><name id="DL424">Swarm of Insects</name><set>Dreamlands</set></card>
+		<card><name id="DL424">Swarm of Insects</name><set>Dreamlands</set></card>
+		<card><name id="Ltd514">Church of Starry Wisdom</name><set>Limited</set></card>
+		<card><name id="Ltd519">First Baptist Church</name><set>Limited</set></card>
+		<card><name id="Ltd509">Bolton</name><set>Limited</set></card>
+		<card><name id="StdS512">Martin&apos;s Beach</name><set>StdS</set></card>
+		<card><name id="StdC508">Newburyport Historical Society</name><set>StdC</set></card>
+		<card><name id="StdC509">Newburyport Public Library</name><set>StdC</set></card>
+		<card><name id="NA551">Yuggoth</name><set>New Aeon</set></card>
+		<card><name id="NA551">Yuggoth</name><set>New Aeon</set></card>
+		<card><name id="Ltd716">Mi-Go (v1)</name><set>Limited</set></card>
+		<card><name id="NA711">Mi-Go (v2)</name><set>New Aeon</set></card>
+		<card><name id="StdC702">Mi-Go (v3)</name><set>StdC</set></card>
+		<card><name id="StdC703">Mi-Go (v4)</name><set>StdC</set></card>
+		<card><name id="StdS208">Samuel Winsor</name><set>StdS</set></card>
+		<card><name id="DL313">Zenig of Aphorat</name><set>Dreamlands</set></card>
+		<card><name id="Ltd406">Catastrophic Failure</name><set>Limited</set></card>
+		<card><name id="NA423">Its Full Of Stars!</name><set>New Aeon</set></card>
+		<card><name id="Ltd438">Thieves in your Attic</name><set>Limited</set></card>
+		<card><name id="Ltd403">Bacteriophobia</name><set>Limited</set></card>
+		<card><name id="Ltd505">Arkham Sanitarium</name><set>Limited</set></card>
+		<card><name id="Ltd526">Massachusetts State Hospital</name><set>Limited</set></card>
+		<card><name id="StdC515">Waterbury State Hospital</name><set>StdC</set></card>
+		<card><name id="DL720">Shantaks (v2)</name><set>Dreamlands</set></card>
+		<card><name id="DL720">Shantaks (v2)</name><set>Dreamlands</set></card>
+		<card><name id="DL720">Shantaks (v2)</name><set>Dreamlands</set></card>
+		<card><name id="B1MU801">Angels if Tagh Clatur</name><set>B1MU</set></card>
+		<card><name id="B2CR804">Create Time Warp</name><set>B2CR</set></card>
+		<card><name id="StdC803">Petrify</name><set>StdC</set></card>
+		<card><name id="NA815">Song of the Stellar Larvae</name><set>New Aeon</set></card>
+	</superzone>
+	<superzone name="Investigator">
+		<card><name id="NA005">Obsessed Agent in Mi-Go Braincase</name><set>New Aeon</set></card>
+	</superzone>
+</deck>

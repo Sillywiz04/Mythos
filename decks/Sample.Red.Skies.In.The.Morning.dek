@@ -1,0 +1,62 @@
+<deck version="0.8">
+	<meta>
+		<game>mythos</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="RP114">Come Sail Away (RP)</name><set>Repointed</set></card>
+		<card><name id="DL202">Basil Elton</name><set>Dreamlands</set></card>
+		<card><name id="DL202">Basil Elton</name><set>Dreamlands</set></card>
+		<card><name id="DL211">Ibbix the Harbormaster</name><set>Dreamlands</set></card>
+		<card><name id="StdS209">The Terrible Old Man</name><set>StdS</set></card>
+		<card><name id="DL204">Captain of the White Ship</name><set>Dreamlands</set></card>
+		<card><name id="DL428">The White Ship</name><set>Dreamlands</set></card>
+		<card><name id="DL428">The White Ship</name><set>Dreamlands</set></card>
+		<card><name id="DL428">The White Ship</name><set>Dreamlands</set></card>
+		<card><name id="StdC504">Congregational Hospital</name><set>StdC</set></card>
+		<card><name id="StdS509">Granny Orne&apos;s House</name><set>StdS</set></card>
+		<card><name id="StdC512">Seventh House on the Left</name><set>StdC</set></card>
+		<card><name id="StdS516">The House on Water Street</name><set>StdS</set></card>
+		<card><name id="DL549">The Strange High House in the Mist</name><set>Dreamlands</set></card>
+		<card><name id="DL522">North Point Lighthouse</name><set>Dreamlands</set></card>
+		<card><name id="DL522">North Point Lighthouse</name><set>Dreamlands</set></card>
+		<card><name id="DL540">The Harbor of Celephais</name><set>Dreamlands</set></card>
+		<card><name id="DL540">The Harbor of Celephais</name><set>Dreamlands</set></card>
+		<card><name id="DL107">Days of Wine and Roses</name><set>Dreamlands</set></card>
+		<card><name id="DL210">Howard Lovecraft (v2)</name><set>Dreamlands</set></card>
+		<card><name id="DL306">Lute of Oonai</name><set>Dreamlands</set></card>
+		<card><name id="DL312">Wine of Pnoth</name><set>Dreamlands</set></card>
+		<card><name id="DL312">Wine of Pnoth</name><set>Dreamlands</set></card>
+		<card><name id="DL423">Sun Spots</name><set>Dreamlands</set></card>
+		<card><name id="DL423">Sun Spots</name><set>Dreamlands</set></card>
+		<card><name id="DL410">Evening</name><set>Dreamlands</set></card>
+		<card><name id="DL410">Evening</name><set>Dreamlands</set></card>
+		<card><name id="DL818">The Awful Doom of Cerrit</name><set>Dreamlands</set></card>
+		<card><name id="DL818">The Awful Doom of Cerrit</name><set>Dreamlands</set></card>
+		<card><name id="RP127">Perchance… (RP)</name><set>Repointed</set></card>
+		<card><name id="DL429">Twister</name><set>Dreamlands</set></card>
+		<card><name id="DL429">Twister</name><set>Dreamlands</set></card>
+		<card><name id="DL518">Kuranes&apos; Manor-House</name><set>Dreamlands</set></card>
+		<card><name id="DL545">The Palace of Seventy Delights</name><set>Dreamlands</set></card>
+		<card><name id="DL545">The Palace of Seventy Delights</name><set>Dreamlands</set></card>
+		<card><name id="Ltd705">Fire Vampires</name><set>Limited</set></card>
+		<card><name id="Ltd705">Fire Vampires</name><set>Limited</set></card>
+		<card><name id="Ltd705">Fire Vampires</name><set>Limited</set></card>
+		<card><name id="DL716">Minion of Karakal</name><set>Dreamlands</set></card>
+		<card><name id="DL716">Minion of Karakal</name><set>Dreamlands</set></card>
+		<card><name id="DL716">Minion of Karakal</name><set>Dreamlands</set></card>
+		<card><name id="Ltd301">Chime of Tezchaptl</name><set>Limited</set></card>
+		<card><name id="DL310">The Silver Key</name><set>Dreamlands</set></card>
+		<card><name id="Ltd413">Discover Secret Cache</name><set>Limited</set></card>
+		<card><name id="DL554">The Turquoise Temple of Nath-Horthath</name><set>Dreamlands</set></card>
+		<card><name id="Ltd803">Chant of Thoth</name><set>Limited</set></card>
+		<card><name id="DL811">Gate of Oneirology</name><set>Dreamlands</set></card>
+		<card><name id="NA812">Mental Suggestion</name><set>New Aeon</set></card>
+		<card><name id="B2CR817">Steal Life</name><set>B2CR</set></card>
+		<card><name id="B3LN905">Seven Cryptical Books of H&apos;san (Chinese</name><set>B3LN</set></card>
+		<card><name id="B3LN905">Seven Cryptical Books of H&apos;san (Chinese</name><set>B3LN</set></card>
+		<card><name id="Ltd910">Seven Cryptical Books of H&apos;san (English)</name><set>Limited</set></card>
+	</superzone>
+	<superzone name="Investigator">
+		<card><name id="Ltd011">Inquisitive Chinese Intellectual</name><set>Limited</set></card>
+	</superzone>
+</deck>
