@@ -1,0 +1,229 @@
+<plugin>
+//Set starting conditions
+<playerstat><label>Sanity</label><initialvalue>20</initialvalue></playerstat>
+<playerstat><label>APs</label><initialvalue>0</initialvalue></playerstat>
+
+//Define Deckzones
+
+<deckzone>
+     <label>Deck</label>
+     <gamezonetoloadto>Deck</gamezonetoloadto>
+     <shuffle>yes</shuffle>
+</deckzone>
+
+<deckzone>
+     <label>Investigator</label>
+     <gamezonetoloadto>Investigator</gamezonetoloadto>
+     <shuffle>no</shuffle>
+</deckzone>
+
+
+//Define Game Zones
+
+<gamezone>
+     <label>Hand</label>
+     <visibletoowner>yes</visibletoowner>
+     <visibletoothers>no</visibletoothers>
+</gamezone>
+
+<gamezone>
+     <label>Deck</label>
+     <visibletoowner>no</visibletoowner>
+     <visibletoothers>no</visibletoothers>
+</gamezone>
+
+<gamezone>
+     <label>Discard</label>
+     <visibletoowner>yes</visibletoowner>
+     <visibletoothers>yes</visibletoothers>
+</gamezone>
+
+<gamezone>
+     <label>Story</label>
+     <visibletoowner>yes</visibletoowner>
+     <visibletoothers>yes</visibletoothers>
+</gamezone>
+
+<gamezone>
+     <label>Investigator</label>
+     <visibletoowner>yes</visibletoowner>
+     <visibletoothers>yes</visibletoothers>
+</gamezone>
+
+
+//Define game phases
+
+<phase>
+	<label>Actions</label>
+</phase>
+
+<phase>
+	<label>Commit Monster</label>
+</phase>
+
+<phase>
+	<label>Commit Allies</label>
+</phase>
+
+<phase>
+	<label>Spells/Artifacts</label>
+</phase>
+
+<phase>
+	<label>Combat</label>
+</phase>
+
+<phase>
+	<label>End of Round</label>
+</phase>
+
+
+
+
+//Define general game options
+
+<generalfunction>
+	<label>Draw Card</label>
+	<kind>DRAWCARD</kind>
+	<includeasbutton>yes</includeasbutton>
+</generalfunction>
+
+<generalfunction>
+	<label>Previous Phase</label>
+	<kind>PREVIOUSPHASE</kind>
+	<includeasbutton>yes</includeasbutton>
+</generalfunction>
+
+<generalfunction>
+	<label>Next Phase</label>
+	<kind>NEXTPHASE</kind>
+	<includeasbutton>yes</includeasbutton>
+</generalfunction>
+
+<generalfunction>
+	<label>Roll D6</label>
+	<kind>RollD6</kind>
+	<includeasbutton>yes</includeasbutton>
+</generalfunction>
+
+<generalfunction>
+	<label>Roll D20</label>
+	<kind>RollD20</kind>
+	<includeasbutton>yes</includeasbutton>
+</generalfunction>
+
+<generalfunction>
+	<label>Flip a Coin</label>
+	<kind>FLIPCOIN</kind>
+	<includeasbutton>yes</includeasbutton>
+</generalfunction>
+
+<generalfunction>
+	<label>Spawn Blank Card</label>
+	<kind>SPAWNCARD</kind>
+	<includeasbutton>yes</includeasbutton>
+</generalfunction>
+
+<generalfunction>
+	<label>Next Turn</label>
+	<kind>NEXTTURN</kind>
+	<includeasbutton>yes</includeasbutton>
+</generalfunction>
+
+
+//Define options available to player to change cards
+
+<cardfunction>
+	<label>Rotate</label>
+	<kind>MAKERIGHT90DEGREES</kind>
+	<includeasbutton>yes</includeasbutton>
+</cardfunction>
+
+<cardfunction>
+	<label>Unrotate</label>
+	<kind>MAKERIGHT0DEGREES</kind>
+	<includeasbutton>yes</includeasbutton>
+</cardfunction>
+
+<generalfunction>
+	<label>Unrotate All</label>
+	<kind>ALLYOURCARDSMAKERIGHT0DEGREES</kind>
+	<includeasbutton>yes</includeasbutton>
+</generalfunction>
+
+<cardfunction>
+	<label>Turn Over</label>
+	<kind>TURNOVER</kind>
+	<includeasbutton>yes</includeasbutton>
+</cardfunction>
+
+<cardfunction>
+	<label>Red +1</label>
+	<kind>ADDCOUNTERRED</kind>
+	<includeasbutton>yes</includeasbutton>
+	<PositionX>.15</PositionX>
+	<PositionY>.04</PositionY>
+</cardfunction>
+
+<cardfunction>
+	<label>Red -1</label>
+	<kind>REMOVECOUNTERRED</kind>
+	<includeasbutton>yes</includeasbutton>
+</cardfunction>
+
+<cardfunction>
+	<label>Yellow +1</label>
+	<kind>ADDCOUNTERYELLOW</kind>
+	<includeasbutton>yes</includeasbutton>
+	<PositionX>.50</PositionX>
+	<PositionY>.04</PositionY>
+</cardfunction>
+
+<cardfunction>
+	<label>Yellow-1</label>
+	<kind>REMOVECOUNTERYELLOW</kind>
+	<includeasbutton>yes</includeasbutton>
+</cardfunction>
+
+<cardfunction>
+	<label>Green +1</label>
+	<kind>ADDCOUNTERGREEN</kind>
+	<includeasbutton>yes</includeasbutton>
+	<PositionX>.85</PositionX>
+	<PositionY>.04</PositionY>
+</cardfunction>
+
+<cardfunction>
+	<label>Green -1</label>
+	<kind>REMOVECOUNTERGREEN</kind>
+	<includeasbutton>yes</includeasbutton>
+</cardfunction>
+
+<cardfunction>
+	<label>Take Control</label>
+	<kind>CHANGEOWNER</kind>
+</cardfunction>
+
+<cardfunction>
+	<label>Edit Note</label>
+	<kind>EDITNOTE</kind>
+	<includeasbutton>yes</includeasbutton>
+	<PositionX>.4</PositionX>
+	<PositionY>.95</PositionY>
+</cardfunction>
+
+<cardfunction>
+	<label>Clear</label>
+	<kind>CLEARCARD</kind>
+	<includeasbutton>yes</includeasbutton>
+</cardfunction>
+
+//Definitions
+
+<definition>
+	<kind>ISYOURFACEDOWNVISIBLE</kind>
+	<value>YES</value>
+</definition>
+
+</plugin>
+

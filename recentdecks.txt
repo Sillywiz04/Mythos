@@ -1,0 +1,5 @@
+RECENTDECK0:Sample.Aldebaran.Also.Rises.dek
+RECENTDECK1:Sample.Down.in.The.Valley.dek
+RECENTDECK2:Sample.The.Lurking.Fear.dek
+RECENTDECK3:Standard.Steadfast.Deck.dek
+RECENTDECK4:Standard.Corrupted.Deck.dek
