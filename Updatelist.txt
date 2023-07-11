@@ -1,0 +1,4 @@
+Mythos	07-11-23
+
+CardURLFiles:
+CardImageURLs1.txt
