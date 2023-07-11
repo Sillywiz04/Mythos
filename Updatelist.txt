@@ -1,3 +1,10 @@
-LackeyMythosCCG	07-11-23
-CardURLFiles:
-CardImageURLs1.txt
+MapleStory	06-29-22	
+plugins/Mythos/plugininfo.txt	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/plugininfo.txt	-1
+plugins/Mythos/pluginpreferences.txt	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/pluginpreferences.txt	-1
+plugins/Mythos/version.txt	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/version.txt	-1
+plugins/Mythos/sets/carddata.txt	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/carddata.txt	-1
+plugins/Mythos/sets/setimages/general/cardback.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/general/cardback.jpg	-1
+plugins/Mythos/sets/setimages/general/spawned.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/general/spawned.jpg	-1
+plugins/Mythos/CardImageURLs1.txt	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/CardImageURLs1.txt	-1
+CardURLFiles:		
+CardImageURLs1.txt		
