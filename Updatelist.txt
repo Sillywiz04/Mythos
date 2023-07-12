@@ -1,10 +1,18 @@
-MapleStory	06-29-22	
-plugins/Mythos/plugininfo.txt	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/plugininfo.txt	-1
-plugins/Mythos/pluginpreferences.txt	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/pluginpreferences.txt	-1
-plugins/Mythos/version.txt	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/version.txt	-1
-plugins/Mythos/sets/carddata.txt	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/carddata.txt	-1
-plugins/Mythos/sets/setimages/general/cardback.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/general/cardback.jpg	-1
-plugins/Mythos/sets/setimages/general/spawned.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/general/spawned.jpg	-1
-plugins/Mythos/CardImageURLs1.txt	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/CardImageURLs1.txt	-1
-CardURLFiles:		
-CardImageURLs1.txt		
+Mythos	06-29-22	
+plugins/Mythos/plugininfo.txt	https://raw.githubusercontent.com/Sillywiz04/MythosCCG/plugininfo.txt	-1
+plugins/Mythos/pluginpreferences.txt	https://raw.githubusercontent.com/Sillywiz04/MythosCCG/pluginpreferences.txt	-1
+plugins/Mythos/version.txt	https://raw.githubusercontent.com/Sillywiz04/MythosCCG/version.txt	-1
+plugins/Mythos/sets/setimages/general/cardback.jpg	https://raw.githubusercontent.com/Sillywiz04/MythosCCG/sets/setimages/general/cardback.jpg	-1
+plugins/Mythos/sets/setimages/general/spawned.jpg	https://raw.githubusercontent.com/Sillywiz04/MythosCCG/sets/setimages/general/spawned.jpg	-1
+plugins/Mythos/sets/B1MU.txt	https://raw.githubusercontent.com/Sillywiz04/MythosCCG/sets/Mythos/sets/B1MU.txt	-1
+plugins/Mythos/sets/B2CR.txt	https://raw.githubusercontent.com/Sillywiz04/MythosCCG/sets/Mythos/sets/B2CR.txt	-1
+plugins/Mythos/sets/B3LN.txt	https://raw.githubusercontent.com/Sillywiz04/MythosCCG/sets/Mythos/sets/B3LN.txt	-1
+plugins/Mythos/sets/Dreamlands.txt	https://raw.githubusercontent.com/Sillywiz04/MythosCCG/sets/Mythos/sets/Dreamlands.txt	-1
+plugins/Mythos/sets/Limited.txt	https://raw.githubusercontent.com/Sillywiz04/MythosCCG/sets/Mythos/sets/Limited.txt	-1
+plugins/Mythos/sets/Movieland.txt	https://raw.githubusercontent.com/Sillywiz04/MythosCCG/sets/Mythos/sets/Movieland.txt	-1
+plugins/Mythos/sets/NA.txt	https://raw.githubusercontent.com/Sillywiz04/MythosCCG/sets/Mythos/sets/NA.txt	-1
+plugins/Mythos/sets/Repointed.txt	https://raw.githubusercontent.com/Sillywiz04/MythosCCG/sets/Mythos/sets/Repointed.txt	-1
+plugins/Mythos/sets/Scooby.txt	https://raw.githubusercontent.com/Sillywiz04/MythosCCG/sets/Mythos/sets/Scooby.txt	-1
+plugins/Mythos/sets/StdC.txt	https://raw.githubusercontent.com/Sillywiz04/MythosCCG/sets/Mythos/sets/StdC.txt	-1
+plugins/Mythos/sets/StdS.txt	https://raw.githubusercontent.com/Sillywiz04/MythosCCG/sets/Mythos/sets/StdS.txt	-1
+plugins/Mythos/CardImageURLs1.txt	https://raw.githubusercontent.com/Sillywiz04/MythosCCG/CardImageURLs1.txt	-1
