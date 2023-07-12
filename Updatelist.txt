@@ -1,6 +1,6 @@
 Mythos	06-29-22	
 plugins/Mythos/plugininfo.txt	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/plugininfo.txt	394962
-plugins/Mythos/pluginpreferences.txt	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/pluginpreferences.txt	-1
+plugins/Mythos/pluginpreferences.txt	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/pluginpreferences.txt	220422
 plugins/Mythos/version.txt	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/version.txt	32074
 plugins/Mythos/sets/setimages/general/cardback.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/general/cardback.jpg	279074
 plugins/Mythos/sets/setimages/general/spawned.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/general/spawned.jpg	588250
@@ -13,8 +13,8 @@ plugins/Mythos/sets/Movieland.txt	https://raw.githubusercontent.com/Sillywiz04/M
 plugins/Mythos/sets/NA.txt	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/NA.txt	3995238
 plugins/Mythos/sets/Repointed.txt	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets//Repointed.txt	2429612
 plugins/Mythos/sets/Scooby.txt	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/Scooby.txt	3044859
-plugins/Mythos/sets/StdC.txt	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/StdC.txt	-1
+plugins/Mythos/sets/StdC.txt	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/StdC.txt	1093749
 plugins/Mythos/sets/StdS.txt	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/StdS.txt	1078627
-Plugins/Mythos/CardImageURLs1.txt	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/CardImageURLs1.txt	-1
+Plugins/Mythos/CardImageURLs1.txt	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/CardImageURLs1.txt	13600430
 CardURLFiles:		
 CardImageURLs1.txt		
