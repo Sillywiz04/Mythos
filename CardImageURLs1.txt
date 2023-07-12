@@ -788,216 +788,216 @@ Movieland/Movie904.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/
 Movieland/Movie905.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/Movieland/Movie905.jpg
 Movieland/Movie906.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/Movieland/Movie906.jpg
 Movieland/Movie907.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/Movieland/Movie907.jpg
-New Aeon/NA101.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/New Aeon/NA101.jpg
-New Aeon/NA102.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/New Aeon/NA102.jpg
-New Aeon/NA103.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/New Aeon/NA103.jpg
-New Aeon/NA104.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/New Aeon/NA104.jpg
-New Aeon/NA105.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/New Aeon/NA105.jpg
-New Aeon/NA106.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/New Aeon/NA106.jpg
-New Aeon/NA107.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/New Aeon/NA107.jpg
-New Aeon/NA108.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/New Aeon/NA108.jpg
-New Aeon/NA109.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/New Aeon/NA109.jpg
-New Aeon/NA110.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/New Aeon/NA110.jpg
-New Aeon/NA111.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/New Aeon/NA111.jpg
-New Aeon/NA112.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/New Aeon/NA112.jpg
-New Aeon/NA113.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/New Aeon/NA113.jpg
-New Aeon/NA114.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/New Aeon/NA114.jpg
-New Aeon/NA115.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/New Aeon/NA115.jpg
-New Aeon/NA116.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/New Aeon/NA116.jpg
-New Aeon/NA117.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/New Aeon/NA117.jpg
-New Aeon/NA118.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/New Aeon/NA118.jpg
-New Aeon/NA201.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/New Aeon/NA201.jpg
-New Aeon/NA202.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/New Aeon/NA202.jpg
-New Aeon/NA203.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/New Aeon/NA203.jpg
-New Aeon/NA204.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/New Aeon/NA204.jpg
-New Aeon/NA205.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/New Aeon/NA205.jpg
-New Aeon/NA206.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/New Aeon/NA206.jpg
-New Aeon/NA207.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/New Aeon/NA207.jpg
-New Aeon/NA208.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/New Aeon/NA208.jpg
-New Aeon/NA209.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/New Aeon/NA209.jpg
-New Aeon/NA210.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/New Aeon/NA210.jpg
-New Aeon/NA211.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/New Aeon/NA211.jpg
-New Aeon/NA212.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/New Aeon/NA212.jpg
-New Aeon/NA213.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/New Aeon/NA213.jpg
-New Aeon/NA214.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/New Aeon/NA214.jpg
-New Aeon/NA215.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/New Aeon/NA215.jpg
-New Aeon/NA216.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/New Aeon/NA216.jpg
-New Aeon/NA217.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/New Aeon/NA217.jpg
-New Aeon/NA218.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/New Aeon/NA218.jpg
-New Aeon/NA219.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/New Aeon/NA219.jpg
-New Aeon/NA220.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/New Aeon/NA220.jpg
-New Aeon/NA221.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/New Aeon/NA221.jpg
-New Aeon/NA222.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/New Aeon/NA222.jpg
-New Aeon/NA223.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/New Aeon/NA223.jpg
-New Aeon/NA224.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/New Aeon/NA224.jpg
-New Aeon/NA301.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/New Aeon/NA301.jpg
-New Aeon/NA302.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/New Aeon/NA302.jpg
-New Aeon/NA303.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/New Aeon/NA303.jpg
-New Aeon/NA304.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/New Aeon/NA304.jpg
-New Aeon/NA305.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/New Aeon/NA305.jpg
-New Aeon/NA306.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/New Aeon/NA306.jpg
-New Aeon/NA307.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/New Aeon/NA307.jpg
-New Aeon/NA308.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/New Aeon/NA308.jpg
-New Aeon/NA309.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/New Aeon/NA309.jpg
-New Aeon/NA310.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/New Aeon/NA310.jpg
-New Aeon/NA311.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/New Aeon/NA311.jpg
-New Aeon/NA312.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/New Aeon/NA312.jpg
-New Aeon/NA313.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/New Aeon/NA313.jpg
-New Aeon/NA314.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/New Aeon/NA314.jpg
-New Aeon/NA315.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/New Aeon/NA315.jpg
-New Aeon/NA316.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/New Aeon/NA316.jpg
-New Aeon/NA317.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/New Aeon/NA317.jpg
-New Aeon/NA318.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/New Aeon/NA318.jpg
-New Aeon/NA319.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/New Aeon/NA319.jpg
-New Aeon/NA320.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/New Aeon/NA320.jpg
-New Aeon/NA321.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/New Aeon/NA321.jpg
-New Aeon/NA401.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/New Aeon/NA401.jpg
-New Aeon/NA402.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/New Aeon/NA402.jpg
-New Aeon/NA403.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/New Aeon/NA403.jpg
-New Aeon/NA404.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/New Aeon/NA404.jpg
-New Aeon/NA405.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/New Aeon/NA405.jpg
-New Aeon/NA406.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/New Aeon/NA406.jpg
-New Aeon/NA407.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/New Aeon/NA407.jpg
-New Aeon/NA408.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/New Aeon/NA408.jpg
-New Aeon/NA409.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/New Aeon/NA409.jpg
-New Aeon/NA410.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/New Aeon/NA410.jpg
-New Aeon/NA411.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/New Aeon/NA411.jpg
-New Aeon/NA412.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/New Aeon/NA412.jpg
-New Aeon/NA413.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/New Aeon/NA413.jpg
-New Aeon/NA414.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/New Aeon/NA414.jpg
-New Aeon/NA415.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/New Aeon/NA415.jpg
-New Aeon/NA416.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/New Aeon/NA416.jpg
-New Aeon/NA417.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/New Aeon/NA417.jpg
-New Aeon/NA418.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/New Aeon/NA418.jpg
-New Aeon/NA419.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/New Aeon/NA419.jpg
-New Aeon/NA420.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/New Aeon/NA420.jpg
-New Aeon/NA421.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/New Aeon/NA421.jpg
-New Aeon/NA422.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/New Aeon/NA422.jpg
-New Aeon/NA423.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/New Aeon/NA423.jpg
-New Aeon/NA424.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/New Aeon/NA424.jpg
-New Aeon/NA425.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/New Aeon/NA425.jpg
-New Aeon/NA426.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/New Aeon/NA426.jpg
-New Aeon/NA427.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/New Aeon/NA427.jpg
-New Aeon/NA428.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/New Aeon/NA428.jpg
-New Aeon/NA429.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/New Aeon/NA429.jpg
-New Aeon/NA430.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/New Aeon/NA430.jpg
-New Aeon/NA431.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/New Aeon/NA431.jpg
-New Aeon/NA432.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/New Aeon/NA432.jpg
-New Aeon/NA433.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/New Aeon/NA433.jpg
-New Aeon/NA434.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/New Aeon/NA434.jpg
-New Aeon/NA435.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/New Aeon/NA435.jpg
-New Aeon/NA436.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/New Aeon/NA436.jpg
-New Aeon/NA437.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/New Aeon/NA437.jpg
-New Aeon/NA438.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/New Aeon/NA438.jpg
-New Aeon/NA439.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/New Aeon/NA439.jpg
-New Aeon/NA440.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/New Aeon/NA440.jpg
-New Aeon/NA441.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/New Aeon/NA441.jpg
-New Aeon/NA442.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/New Aeon/NA442.jpg
-New Aeon/NA001.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/New Aeon/NA001.jpg
-New Aeon/NA002.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/New Aeon/NA002.jpg
-New Aeon/NA003.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/New Aeon/NA003.jpg
-New Aeon/NA004.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/New Aeon/NA004.jpg
-New Aeon/NA005.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/New Aeon/NA005.jpg
-New Aeon/NA006.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/New Aeon/NA006.jpg
-New Aeon/NA007.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/New Aeon/NA007.jpg
-New Aeon/NA008.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/New Aeon/NA008.jpg
-New Aeon/NA009.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/New Aeon/NA009.jpg
-New Aeon/NA010.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/New Aeon/NA010.jpg
-New Aeon/NA501.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/New Aeon/NA501.jpg
-New Aeon/NA502.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/New Aeon/NA502.jpg
-New Aeon/NA503.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/New Aeon/NA503.jpg
-New Aeon/NA504.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/New Aeon/NA504.jpg
-New Aeon/NA505.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/New Aeon/NA505.jpg
-New Aeon/NA506.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/New Aeon/NA506.jpg
-New Aeon/NA507.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/New Aeon/NA507.jpg
-New Aeon/NA508.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/New Aeon/NA508.jpg
-New Aeon/NA509.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/New Aeon/NA509.jpg
-New Aeon/NA510.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/New Aeon/NA510.jpg
-New Aeon/NA511.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/New Aeon/NA511.jpg
-New Aeon/NA512.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/New Aeon/NA512.jpg
-New Aeon/NA513.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/New Aeon/NA513.jpg
-New Aeon/NA514.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/New Aeon/NA514.jpg
-New Aeon/NA515.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/New Aeon/NA515.jpg
-New Aeon/NA516.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/New Aeon/NA516.jpg
-New Aeon/NA517.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/New Aeon/NA517.jpg
-New Aeon/NA518.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/New Aeon/NA518.jpg
-New Aeon/NA519.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/New Aeon/NA519.jpg
-New Aeon/NA520.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/New Aeon/NA520.jpg
-New Aeon/NA521.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/New Aeon/NA521.jpg
-New Aeon/NA522.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/New Aeon/NA522.jpg
-New Aeon/NA523.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/New Aeon/NA523.jpg
-New Aeon/NA524.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/New Aeon/NA524.jpg
-New Aeon/NA525.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/New Aeon/NA525.jpg
-New Aeon/NA526.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/New Aeon/NA526.jpg
-New Aeon/NA527.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/New Aeon/NA527.jpg
-New Aeon/NA528.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/New Aeon/NA528.jpg
-New Aeon/NA529.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/New Aeon/NA529.jpg
-New Aeon/NA530.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/New Aeon/NA530.jpg
-New Aeon/NA531.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/New Aeon/NA531.jpg
-New Aeon/NA532.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/New Aeon/NA532.jpg
-New Aeon/NA533.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/New Aeon/NA533.jpg
-New Aeon/NA534.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/New Aeon/NA534.jpg
-New Aeon/NA535.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/New Aeon/NA535.jpg
-New Aeon/NA536.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/New Aeon/NA536.jpg
-New Aeon/NA537.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/New Aeon/NA537.jpg
-New Aeon/NA538.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/New Aeon/NA538.jpg
-New Aeon/NA539.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/New Aeon/NA539.jpg
-New Aeon/NA540.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/New Aeon/NA540.jpg
-New Aeon/NA541.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/New Aeon/NA541.jpg
-New Aeon/NA542.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/New Aeon/NA542.jpg
-New Aeon/NA543.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/New Aeon/NA543.jpg
-New Aeon/NA544.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/New Aeon/NA544.jpg
-New Aeon/NA545.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/New Aeon/NA545.jpg
-New Aeon/NA546.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/New Aeon/NA546.jpg
-New Aeon/NA547.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/New Aeon/NA547.jpg
-New Aeon/NA548.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/New Aeon/NA548.jpg
-New Aeon/NA549.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/New Aeon/NA549.jpg
-New Aeon/NA550.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/New Aeon/NA550.jpg
-New Aeon/NA551.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/New Aeon/NA551.jpg
-New Aeon/NA701.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/New Aeon/NA701.jpg
-New Aeon/NA702.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/New Aeon/NA702.jpg
-New Aeon/NA703.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/New Aeon/NA703.jpg
-New Aeon/NA704.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/New Aeon/NA704.jpg
-New Aeon/NA705.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/New Aeon/NA705.jpg
-New Aeon/NA706.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/New Aeon/NA706.jpg
-New Aeon/NA707.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/New Aeon/NA707.jpg
-New Aeon/NA708.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/New Aeon/NA708.jpg
-New Aeon/NA709.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/New Aeon/NA709.jpg
-New Aeon/NA710.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/New Aeon/NA710.jpg
-New Aeon/NA711.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/New Aeon/NA711.jpg
-New Aeon/NA712.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/New Aeon/NA712.jpg
-New Aeon/NA713.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/New Aeon/NA713.jpg
-New Aeon/NA714.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/New Aeon/NA714.jpg
-New Aeon/NA715.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/New Aeon/NA715.jpg
-New Aeon/NA716.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/New Aeon/NA716.jpg
-New Aeon/NA717.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/New Aeon/NA717.jpg
-New Aeon/NA718.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/New Aeon/NA718.jpg
-New Aeon/NA719.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/New Aeon/NA719.jpg
-New Aeon/NA720.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/New Aeon/NA720.jpg
-New Aeon/NA801.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/New Aeon/NA801.jpg
-New Aeon/NA802.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/New Aeon/NA802.jpg
-New Aeon/NA803.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/New Aeon/NA803.jpg
-New Aeon/NA804.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/New Aeon/NA804.jpg
-New Aeon/NA805.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/New Aeon/NA805.jpg
-New Aeon/NA806.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/New Aeon/NA806.jpg
-New Aeon/NA807.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/New Aeon/NA807.jpg
-New Aeon/NA808.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/New Aeon/NA808.jpg
-New Aeon/NA809.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/New Aeon/NA809.jpg
-New Aeon/NA810.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/New Aeon/NA810.jpg
-New Aeon/NA811.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/New Aeon/NA811.jpg
-New Aeon/NA812.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/New Aeon/NA812.jpg
-New Aeon/NA813.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/New Aeon/NA813.jpg
-New Aeon/NA814.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/New Aeon/NA814.jpg
-New Aeon/NA815.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/New Aeon/NA815.jpg
-New Aeon/NA816.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/New Aeon/NA816.jpg
-New Aeon/NA901.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/New Aeon/NA901.jpg
-New Aeon/NA902.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/New Aeon/NA902.jpg
-New Aeon/NA903.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/New Aeon/NA903.jpg
-New Aeon/NA904.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/New Aeon/NA904.jpg
-New Aeon/NA905.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/New Aeon/NA905.jpg
-New Aeon/NA906.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/New Aeon/NA906.jpg
-New Aeon/NA907.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/New Aeon/NA907.jpg
-New Aeon/NA908.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/New Aeon/NA908.jpg
+NA/NA101.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/NA/NA101.jpg
+NA/NA102.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/NA/NA102.jpg
+NA/NA103.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/NA/NA103.jpg
+NA/NA104.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/NA/NA104.jpg
+NA/NA105.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/NA/NA105.jpg
+NA/NA106.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/NA/NA106.jpg
+NA/NA107.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/NA/NA107.jpg
+NA/NA108.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/NA/NA108.jpg
+NA/NA109.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/NA/NA109.jpg
+NA/NA110.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/NA/NA110.jpg
+NA/NA111.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/NA/NA111.jpg
+NA/NA112.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/NA/NA112.jpg
+NA/NA113.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/NA/NA113.jpg
+NA/NA114.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/NA/NA114.jpg
+NA/NA115.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/NA/NA115.jpg
+NA/NA116.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/NA/NA116.jpg
+NA/NA117.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/NA/NA117.jpg
+NA/NA118.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/NA/NA118.jpg
+NA/NA201.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/NA/NA201.jpg
+NA/NA202.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/NA/NA202.jpg
+NA/NA203.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/NA/NA203.jpg
+NA/NA204.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/NA/NA204.jpg
+NA/NA205.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/NA/NA205.jpg
+NA/NA206.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/NA/NA206.jpg
+NA/NA207.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/NA/NA207.jpg
+NA/NA208.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/NA/NA208.jpg
+NA/NA209.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/NA/NA209.jpg
+NA/NA210.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/NA/NA210.jpg
+NA/NA211.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/NA/NA211.jpg
+NA/NA212.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/NA/NA212.jpg
+NA/NA213.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/NA/NA213.jpg
+NA/NA214.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/NA/NA214.jpg
+NA/NA215.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/NA/NA215.jpg
+NA/NA216.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/NA/NA216.jpg
+NA/NA217.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/NA/NA217.jpg
+NA/NA218.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/NA/NA218.jpg
+NA/NA219.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/NA/NA219.jpg
+NA/NA220.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/NA/NA220.jpg
+NA/NA221.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/NA/NA221.jpg
+NA/NA222.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/NA/NA222.jpg
+NA/NA223.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/NA/NA223.jpg
+NA/NA224.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/NA/NA224.jpg
+NA/NA301.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/NA/NA301.jpg
+NA/NA302.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/NA/NA302.jpg
+NA/NA303.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/NA/NA303.jpg
+NA/NA304.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/NA/NA304.jpg
+NA/NA305.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/NA/NA305.jpg
+NA/NA306.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/NA/NA306.jpg
+NA/NA307.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/NA/NA307.jpg
+NA/NA308.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/NA/NA308.jpg
+NA/NA309.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/NA/NA309.jpg
+NA/NA310.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/NA/NA310.jpg
+NA/NA311.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/NA/NA311.jpg
+NA/NA312.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/NA/NA312.jpg
+NA/NA313.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/NA/NA313.jpg
+NA/NA314.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/NA/NA314.jpg
+NA/NA315.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/NA/NA315.jpg
+NA/NA316.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/NA/NA316.jpg
+NA/NA317.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/NA/NA317.jpg
+NA/NA318.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/NA/NA318.jpg
+NA/NA319.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/NA/NA319.jpg
+NA/NA320.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/NA/NA320.jpg
+NA/NA321.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/NA/NA321.jpg
+NA/NA401.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/NA/NA401.jpg
+NA/NA402.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/NA/NA402.jpg
+NA/NA403.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/NA/NA403.jpg
+NA/NA404.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/NA/NA404.jpg
+NA/NA405.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/NA/NA405.jpg
+NA/NA406.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/NA/NA406.jpg
+NA/NA407.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/NA/NA407.jpg
+NA/NA408.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/NA/NA408.jpg
+NA/NA409.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/NA/NA409.jpg
+NA/NA410.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/NA/NA410.jpg
+NA/NA411.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/NA/NA411.jpg
+NA/NA412.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/NA/NA412.jpg
+NA/NA413.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/NA/NA413.jpg
+NA/NA414.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/NA/NA414.jpg
+NA/NA415.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/NA/NA415.jpg
+NA/NA416.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/NA/NA416.jpg
+NA/NA417.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/NA/NA417.jpg
+NA/NA418.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/NA/NA418.jpg
+NA/NA419.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/NA/NA419.jpg
+NA/NA420.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/NA/NA420.jpg
+NA/NA421.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/NA/NA421.jpg
+NA/NA422.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/NA/NA422.jpg
+NA/NA423.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/NA/NA423.jpg
+NA/NA424.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/NA/NA424.jpg
+NA/NA425.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/NA/NA425.jpg
+NA/NA426.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/NA/NA426.jpg
+NA/NA427.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/NA/NA427.jpg
+NA/NA428.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/NA/NA428.jpg
+NA/NA429.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/NA/NA429.jpg
+NA/NA430.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/NA/NA430.jpg
+NA/NA431.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/NA/NA431.jpg
+NA/NA432.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/NA/NA432.jpg
+NA/NA433.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/NA/NA433.jpg
+NA/NA434.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/NA/NA434.jpg
+NA/NA435.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/NA/NA435.jpg
+NA/NA436.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/NA/NA436.jpg
+NA/NA437.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/NA/NA437.jpg
+NA/NA438.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/NA/NA438.jpg
+NA/NA439.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/NA/NA439.jpg
+NA/NA440.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/NA/NA440.jpg
+NA/NA441.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/NA/NA441.jpg
+NA/NA442.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/NA/NA442.jpg
+NA/NA001.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/NA/NA001.jpg
+NA/NA002.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/NA/NA002.jpg
+NA/NA003.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/NA/NA003.jpg
+NA/NA004.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/NA/NA004.jpg
+NA/NA005.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/NA/NA005.jpg
+NA/NA006.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/NA/NA006.jpg
+NA/NA007.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/NA/NA007.jpg
+NA/NA008.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/NA/NA008.jpg
+NA/NA009.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/NA/NA009.jpg
+NA/NA010.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/NA/NA010.jpg
+NA/NA501.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/NA/NA501.jpg
+NA/NA502.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/NA/NA502.jpg
+NA/NA503.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/NA/NA503.jpg
+NA/NA504.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/NA/NA504.jpg
+NA/NA505.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/NA/NA505.jpg
+NA/NA506.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/NA/NA506.jpg
+NA/NA507.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/NA/NA507.jpg
+NA/NA508.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/NA/NA508.jpg
+NA/NA509.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/NA/NA509.jpg
+NA/NA510.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/NA/NA510.jpg
+NA/NA511.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/NA/NA511.jpg
+NA/NA512.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/NA/NA512.jpg
+NA/NA513.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/NA/NA513.jpg
+NA/NA514.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/NA/NA514.jpg
+NA/NA515.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/NA/NA515.jpg
+NA/NA516.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/NA/NA516.jpg
+NA/NA517.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/NA/NA517.jpg
+NA/NA518.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/NA/NA518.jpg
+NA/NA519.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/NA/NA519.jpg
+NA/NA520.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/NA/NA520.jpg
+NA/NA521.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/NA/NA521.jpg
+NA/NA522.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/NA/NA522.jpg
+NA/NA523.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/NA/NA523.jpg
+NA/NA524.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/NA/NA524.jpg
+NA/NA525.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/NA/NA525.jpg
+NA/NA526.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/NA/NA526.jpg
+NA/NA527.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/NA/NA527.jpg
+NA/NA528.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/NA/NA528.jpg
+NA/NA529.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/NA/NA529.jpg
+NA/NA530.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/NA/NA530.jpg
+NA/NA531.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/NA/NA531.jpg
+NA/NA532.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/NA/NA532.jpg
+NA/NA533.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/NA/NA533.jpg
+NA/NA534.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/NA/NA534.jpg
+NA/NA535.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/NA/NA535.jpg
+NA/NA536.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/NA/NA536.jpg
+NA/NA537.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/NA/NA537.jpg
+NA/NA538.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/NA/NA538.jpg
+NA/NA539.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/NA/NA539.jpg
+NA/NA540.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/NA/NA540.jpg
+NA/NA541.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/NA/NA541.jpg
+NA/NA542.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/NA/NA542.jpg
+NA/NA543.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/NA/NA543.jpg
+NA/NA544.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/NA/NA544.jpg
+NA/NA545.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/NA/NA545.jpg
+NA/NA546.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/NA/NA546.jpg
+NA/NA547.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/NA/NA547.jpg
+NA/NA548.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/NA/NA548.jpg
+NA/NA549.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/NA/NA549.jpg
+NA/NA550.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/NA/NA550.jpg
+NA/NA551.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/NA/NA551.jpg
+NA/NA701.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/NA/NA701.jpg
+NA/NA702.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/NA/NA702.jpg
+NA/NA703.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/NA/NA703.jpg
+NA/NA704.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/NA/NA704.jpg
+NA/NA705.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/NA/NA705.jpg
+NA/NA706.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/NA/NA706.jpg
+NA/NA707.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/NA/NA707.jpg
+NA/NA708.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/NA/NA708.jpg
+NA/NA709.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/NA/NA709.jpg
+NA/NA710.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/NA/NA710.jpg
+NA/NA711.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/NA/NA711.jpg
+NA/NA712.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/NA/NA712.jpg
+NA/NA713.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/NA/NA713.jpg
+NA/NA714.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/NA/NA714.jpg
+NA/NA715.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/NA/NA715.jpg
+NA/NA716.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/NA/NA716.jpg
+NA/NA717.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/NA/NA717.jpg
+NA/NA718.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/NA/NA718.jpg
+NA/NA719.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/NA/NA719.jpg
+NA/NA720.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/NA/NA720.jpg
+NA/NA801.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/NA/NA801.jpg
+NA/NA802.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/NA/NA802.jpg
+NA/NA803.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/NA/NA803.jpg
+NA/NA804.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/NA/NA804.jpg
+NA/NA805.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/NA/NA805.jpg
+NA/NA806.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/NA/NA806.jpg
+NA/NA807.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/NA/NA807.jpg
+NA/NA808.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/NA/NA808.jpg
+NA/NA809.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/NA/NA809.jpg
+NA/NA810.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/NA/NA810.jpg
+NA/NA811.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/NA/NA811.jpg
+NA/NA812.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/NA/NA812.jpg
+NA/NA813.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/NA/NA813.jpg
+NA/NA814.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/NA/NA814.jpg
+NA/NA815.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/NA/NA815.jpg
+NA/NA816.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/NA/NA816.jpg
+NA/NA901.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/NA/NA901.jpg
+NA/NA902.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/NA/NA902.jpg
+NA/NA903.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/NA/NA903.jpg
+NA/NA904.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/NA/NA904.jpg
+NA/NA905.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/NA/NA905.jpg
+NA/NA906.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/NA/NA906.jpg
+NA/NA907.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/NA/NA907.jpg
+NA/NA908.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/NA/NA908.jpg
 Repointed/RP101.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/Repointed/RP101.jpg
 Repointed/RP102.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/Repointed/RP102.jpg
 Repointed/RP103.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/Repointed/RP103.jpg
