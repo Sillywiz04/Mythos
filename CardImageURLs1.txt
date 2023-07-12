@@ -1,4 +1,4 @@
-CardImageURLs:	
+CardImageURLs:	 
 B1MU/B1MU101	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/B1MU/B1MU101
 B1MU/B1MU102	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/B1MU/B1MU102
 B1MU/B1MU103	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/B1MU/B1MU103
