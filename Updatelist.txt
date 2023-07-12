@@ -16,4 +16,4 @@ plugins/Mythos/sets/Scooby.txt	https://raw.githubusercontent.com/Sillywiz04/Myth
 plugins/Mythos/sets/StdC.txt	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/StdC.txt	10933749
 plugins/Mythos/sets/StdS.txt	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/StdS.txt	1078627
 CardURLFiles:		
-CardImageURLs1.txt		
+CardImageURLs1.txt	
