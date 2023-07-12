@@ -2,8 +2,8 @@
 
 <lastupdateYYMMDD>230711</lastupdateYYMMDD>
 <quality>Base</quality>
-<versionurl>https://raw.githubusercontent.com/Sillywiz04/Lackey.Mythos.CCG/main/version.txt</versionurl>
-<updateurl>https://raw.githubusercontent.com/Sillywiz04/Lackey.Mythos.CCG/main/updatelist.txt</updateurl>
+<versionurl>https://raw.githubusercontent.com/Sillywiz04/Mythos/main/version.txt</versionurl>
+<updateurl>https://raw.githubusercontent.com/Sillywiz04/Mythos/main/updatelist.txt</updateurl>
 <message>v1.0.1 Mythos CCG for Lackey</message>
 
 </version>
