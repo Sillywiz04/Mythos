@@ -1,8 +1,8 @@
 Mythos	06-29-22	
-plugins/Mythos/plugininfo.txt	https://raw.githubusercontent.com/Sillywiz04/MythosCCG/blob/main/plugininfo.txt	-1
+plugins/Mythos/plugininfo.txt	https://raw.githubusercontent.com/Sillywiz04/MythosCCG/main/plugininfo.txt	-1
 plugins/Mythos/pluginpreferences.txt	https://raw.githubusercontent.com/Sillywiz04/MythosCCG/main/pluginpreferences.txt	-1
 plugins/Mythos/version.txt	https://raw.githubusercontent.com/Sillywiz04/MythosCCG/main/version.txt	-1
-plugins/Mythos/sets/setimages/general/cardback.jpg	https://raw.githubusercontent.com/Sillywiz04/MythosCCG/blob/main/sets/setimages/general/cardback.jpg	-1
+plugins/Mythos/sets/setimages/general/cardback.jpg	https://raw.githubusercontent.com/Sillywiz04/MythosCCG/main/sets/setimages/general/cardback.jpg	-1
 plugins/Mythos/sets/setimages/general/spawned.jpg	https://raw.githubusercontent.com/Sillywiz04/MythosCCG/main/sets/setimages/general/spawned.jpg	-1
 plugins/Mythos/sets/B1MU.txt	https://raw.githubusercontent.com/Sillywiz04/MythosCCG/main/sets/Mythos/sets/B1MU.txt	-1
 plugins/Mythos/sets/B2CR.txt	https://raw.githubusercontent.com/Sillywiz04/MythosCCG/main/sets/Mythos/sets/B2CR.txt	-1
