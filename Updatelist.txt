@@ -1,4 +1,4 @@
-Mythos	06-29-22	
+Mythos	07-14-23	
 plugins/Mythos/plugininfo.txt	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/plugininfo.txt	394962
 plugins/Mythos/pluginpreferences.txt	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/pluginpreferences.txt	220424
 plugins/Mythos/version.txt	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/version.txt	30278
@@ -15,6 +15,12 @@ plugins/Mythos/sets/Repointed.txt	https://raw.githubusercontent.com/Sillywiz04/M
 plugins/Mythos/sets/Scooby.txt	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/Scooby.txt	3044859
 plugins/Mythos/sets/StdC.txt	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/StdC.txt	1093749
 plugins/Mythos/sets/StdS.txt	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/StdS.txt	1078583
+plugins/Mythos/Adventure.Repoint.V5.pdf	https://raw.githubusercontent.com/Sillywiz04/Mythos/Adventure.Repoint.V5.pdf	
+plugins/Mythos/Alex.Broadheads.Mythos Errata.pdf	https://raw.githubusercontent.com/Sillywiz04/Mythos/Alex.Broadheads.Mythos Errata.pdf	
+plugins/Mythos/Chaosium.Website.Travel.To.And.From.Exotic.Locations.pdf	https://raw.githubusercontent.com/Sillywiz04/Mythos/Chaosium.Website.Travel.To.And.From.Exotic.Locations.pdf	
+plugins/Mythos/Lackey.Mythos.Deck.And.Filtering.Tutorial.pdf	https://raw.githubusercontent.com/Sillywiz04/Mythos/Lackey.Mythos.Deck.And.Filtering.Tutorial.pdf	
+plugins/Mythos/Mythos Official Chaosium 1997 Rulebook v5.pdf	https://raw.githubusercontent.com/Sillywiz04/Mythos/Mythos Official Chaosium 1997 Rulebook v5.pdf	
+plugins/Mythos/Mythos.Plugin.Installation.Instructions.pdf	https://raw.githubusercontent.com/Sillywiz04/Mythos/Mythos.Plugin.Installation.Instructions.pdf	
 plugins/Mythos/CardImageURLs1.txt	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/CardImageURLs1.txt	13369851
 CardURLFiles:		
 CardImageURLs1.txt		
