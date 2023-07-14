@@ -1,9 +1,9 @@
 Mythos	06-29-22	
 plugins/Mythos/plugininfo.txt	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/plugininfo.txt	394962
-plugins/Mythos/pluginpreferences.txt	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/pluginpreferences.txt	220422
-plugins/Mythos/version.txt	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/version.txt	32074
-plugins/Mythos/sets/setimages/general/cardback.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/general/cardback.jpg	279074
-plugins/Mythos/sets/setimages/general/spawned.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/general/spawned.jpg	588250
+plugins/Mythos/pluginpreferences.txt	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/pluginpreferences.txt	220424
+plugins/Mythos/version.txt	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/version.txt	30278
+plugins/Mythos/sets/setimages/general/cardback.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/general/cardback.jpg	74552
+plugins/Mythos/sets/setimages/general/spawned.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/general/spawned.jpg	79639
 plugins/Mythos/sets/B1MU.txt	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/B1MU.txt	1237600
 plugins/Mythos/sets/B2CR.txt	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/B2CR.txt	1286522
 plugins/Mythos/sets/B3LN.txt	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/B3LN.txt	1332542
@@ -14,7 +14,7 @@ plugins/Mythos/sets/NA.txt	https://raw.githubusercontent.com/Sillywiz04/Mythos/m
 plugins/Mythos/sets/Repointed.txt	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets//Repointed.txt	2429612
 plugins/Mythos/sets/Scooby.txt	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/Scooby.txt	3044859
 plugins/Mythos/sets/StdC.txt	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/StdC.txt	1093749
-plugins/Mythos/sets/StdS.txt	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/StdS.txt	1078627
-Plugins/Mythos/CardImageURLs1.txt	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/CardImageURLs1.txt	13600430
+plugins/Mythos/sets/StdS.txt	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/StdS.txt	1078583
+plugins/Mythos/CardImageURLs1.txt	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/CardImageURLs1.txt	13369851
 CardURLFiles:		
 CardImageURLs1.txt		
