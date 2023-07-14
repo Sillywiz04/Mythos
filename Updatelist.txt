@@ -15,12 +15,12 @@ plugins/Mythos/sets/Repointed.txt	https://raw.githubusercontent.com/Sillywiz04/M
 plugins/Mythos/sets/Scooby.txt	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/Scooby.txt	3044859
 plugins/Mythos/sets/StdC.txt	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/StdC.txt	1093749
 plugins/Mythos/sets/StdS.txt	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/StdS.txt	1078583
-plugins/Mythos/Adventure.Repoint.V5.pdf	https://raw.githubusercontent.com/Sillywiz04/Mythos/Adventure.Repoint.V5.pdf	-1
-plugins/Mythos/Alex.Broadheads.Mythos Errata.pdf	https://raw.githubusercontent.com/Sillywiz04/Mythos/Alex.Broadheads.Mythos Errata.pdf	-1
-plugins/Mythos/Chaosium.Website.Travel.To.And.From.Exotic.Locations.pdf	https://raw.githubusercontent.com/Sillywiz04/Mythos/Chaosium.Website.Travel.To.And.From.Exotic.Locations.pdf	-1
-plugins/Mythos/Lackey.Mythos.Deck.And.Filtering.Tutorial.pdf	https://raw.githubusercontent.com/Sillywiz04/Mythos/Lackey.Mythos.Deck.And.Filtering.Tutorial.pdf	-1
-plugins/Mythos/Mythos Official Chaosium 1997 Rulebook v5.pdf	https://raw.githubusercontent.com/Sillywiz04/Mythos/Mythos Official Chaosium 1997 Rulebook v5.pdf	-1
-plugins/Mythos/Mythos.Plugin.Installation.Instructions.pdf	https://raw.githubusercontent.com/Sillywiz04/Mythos/Mythos.Plugin.Installation.Instructions.pdf	-1
-plugins/Mythos/CardImageURLs1.txt	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/CardImageURLs1.txt	13369851
+plugins/Mythos/Adventure.Repoint.V5.pdf	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/Adventure.Repoint.V5.pdf	-1
+plugins/Mythos/Alex.Broadheads.Mythos.Errata.pdf	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/Alex.Broadheads.Mythos.Errata.pdf	-1
+plugins/Mythos/Chaosium.Website.Travel.To.And.From.Exotic.Locations.pdf	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/Chaosium.Website.Travel.To.And.From.Exotic.Locations.pdf	-1
+plugins/Mythos/Lackey.Mythos.Deck.And.Filtering.Tutorial.pdf	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/Lackey..Deck.And.Filtering.Tutorial.pdf	-1
+plugins/Mythos/Mythos Official Chaosium 1997 Rulebook v5.pdf	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/ Official Chaosium 1997 Rulebook v5.pdf	-1
+plugins/Mythos/Mythos.Plugin.Installation.Instructions.pdf	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/.Plugin.Installation.Instructions.pdf	-1
+plugins/Mythos/CardImageURLs1.txt	plugins/Mythos/CardImageURLs1.txt	13369851
 CardURLFiles:		
 CardImageURLs1.txt		
