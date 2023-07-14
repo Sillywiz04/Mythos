@@ -118,7 +118,7 @@ Old Mine Storehouse	Scooby	Scooby531	Location	"Country, Underground"			-1					Sc
 Old Saw Mill	Scooby	Scooby532	Location	"Country, Gate, Site "								Scooby Doo Country								
 Old Witch's Shack	Scooby	Scooby533	Location	"Country, Gate, House, Artifact, Tome"			-1					Scooby Doo Country								
 Picture Rock Cave	Scooby 	Scooby534	Location	"Country, Underground"			-1					Scooby Doo Country								
-Public Library	scooby	Scooby535	Location	"City, Gate, University, Tome"								Scooby Doo Country								You may use this Gate to play a Tome card regardless of language of Investiagor or Allies whilet he Public Library is your Current Location
+Public Library	Scooby 	Scooby535	Location	"City, Gate, University, Tome"								Scooby Doo Country								You may use this Gate to play a Tome card regardless of language of Investiagor or Allies whilet he Public Library is your Current Location
 Sacred Indian Altar	Scooby	Scooby536	Location	"Country, Site"								Scooby Doo Country								"For each additional Turn you remain here, you may Bury one Phobia affecting your Investigator"
 Sacred Indian Temple	Scooby	Scooby537	Location	"Country, Temple, Artifact"			4					Scooby Doo Country								"Gain 4 Sanity points, but reveal the top card of your Mythos Deck. Apply any Sanity gain or loss indicated by the pentagram on the card, then Discard it. During each additional turn that you remain here, you may Bury one Phobia affecting your Investigator."
 Sam Stingeyy's Cabin	Scooby	Scooby538	Location	"Country, House"								Scooby Doo Country								

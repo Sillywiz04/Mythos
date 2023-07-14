@@ -1176,7 +1176,7 @@ Scooby/Scooby530.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/se
 Scooby/Scooby531.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/Scooby/Scooby531.jpg
 Scooby/Scooby532.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/Scooby/Scooby532.jpg
 Scooby/Scooby533.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/Scooby/Scooby533.jpg
-Scooby /Scooby534.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/Scooby /Scooby534.jpg
+Scooby/Scooby534.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/Scooby/Scooby534.jpg
 scooby/Scooby535.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/scooby/Scooby535.jpg
 Scooby/Scooby536.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/Scooby/Scooby536.jpg
 Scooby/Scooby537.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/Scooby/Scooby537.jpg
@@ -1226,6 +1226,7 @@ Scooby/Scooby903.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/se
 Scooby/Scooby904.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/Scooby/Scooby904.jpg
 Scooby/Scooby905.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/Scooby/Scooby905.jpg
 Scooby/Scooby906.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/Scooby/Scooby906.jpg
+Scooby/Scooby907.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/Scooby/Scooby907.jpg
 StdC/StdC101.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/StdC/StdC101.jpg
 StdC/StdC102.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/StdC/StdC102.jpg
 StdC/StdC103.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/StdC/StdC103.jpg
@@ -1304,10 +1305,9 @@ StdS/StdS402.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/s
 StdS/StdS403.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/StdS/StdS403.jpg
 StdS/StdS404.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/StdS/StdS404.jpg
 StdS/StdS405.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/StdS/StdS405.jpg
-Stds/StdS406.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/Stds/StdS406.jpg
+Stds/StdS406.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/StdS/StdS406.jpg
 StdS/StdS407.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/StdS/StdS407.jpg
 StdS/StdS408.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/StdS/StdS408.jpg
-StdS/StdS409.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/StdS/StdS409.jpg
 StdS/StdS002.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/StdS/StdS002.jpg
 StdS/StdS501.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/StdS/StdS501.jpg
 StdS/StdS502.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/StdS/StdS502.jpg
