@@ -4,6 +4,7 @@ plugins/Mythos/pluginpreferences.txt	https://raw.githubusercontent.com/Sillywiz0
 plugins/Mythos/version.txt	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/version.txt	30278
 plugins/Mythos/sets/setimages/general/cardback.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/general/cardback.jpg	74552
 plugins/Mythos/sets/setimages/general/spawned.jpg	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/setimages/general/spawned.jpg	79639
+plugins/Mythos/CardImageURLs1.txt	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/CardImageURLs1.txt	13369851
 plugins/Mythos/sets/B1MU.txt	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/B1MU.txt	1237600
 plugins/Mythos/sets/B2CR.txt	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/B2CR.txt	1286522
 plugins/Mythos/sets/B3LN.txt	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/B3LN.txt	1332542
@@ -15,7 +16,6 @@ plugins/Mythos/sets/Repointed.txt	https://raw.githubusercontent.com/Sillywiz04/M
 plugins/Mythos/sets/Scooby.txt	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/Scooby.txt	3044859
 plugins/Mythos/sets/StdC.txt	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/StdC.txt	1093749
 plugins/Mythos/sets/StdS.txt	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/StdS.txt	1078583
-plugins/Mythos/CardImageURLs1.txt	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/CardImageURLs1.txt	13369851
 plugins/Mythos/Adventure.Repoint.V5.pdf	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/Adventure.Repoint.V5.pdf	-1
 plugins/Mythos/Alex.Broadheads.Mythos.Errata.pdf	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/Alex.Broadheads.Mythos.Errata.pdf	-1
 plugins/Mythos/Chaosium.Website.Travel.To.And.From.Exotic.Locations.pdf	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/Chaosium.Website.Travel.To.And.From.Exotic.Locations.pdf	-1
