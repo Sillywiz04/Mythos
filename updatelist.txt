@@ -22,5 +22,5 @@ plugins/Mythos/Chaosium.Website.Travel.To.And.From.Exotic.Locations.pdf	https://
 plugins/Mythos/Lackey.Mythos.Deck.And.Filtering.Tutorial.pdf	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/Lackey.Mythos.Deck.And.Filtering.Tutorial.pdf	-1
 plugins/Mythos/Mythos.Official.Chaosium.1997.Rulebook.v5.pdf	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/Mythos.Official.Chaosium.1997.Rulebook.v5.pdf	-1
 plugins/Mythos/Mythos.Plugin.Installation.Instructions.pdf	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/Mythos.Plugin.Installation.Instructions.pdf	-1
-CardURLFiles:		
+CardURLFiles:	 	 
 CardImageURLs1.txt		
