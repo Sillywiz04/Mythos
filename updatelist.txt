@@ -11,7 +11,7 @@ plugins/Mythos/sets/B3LN.txt	https://raw.githubusercontent.com/Sillywiz04/Mythos
 plugins/Mythos/sets/Dreamlands.txt	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/Dreamlands.txt	4247722
 plugins/Mythos/sets/Limited.txt	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/Limited.txt	3631243
 plugins/Mythos/sets/Movieland.txt	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/Movieland.txt	3937477
-plugins/Mythos/sets/NA.txt	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/NA.txt	3874402
+plugins/Mythos/sets/NewAeon.txt	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/NewAeon.txt	3874402
 plugins/Mythos/sets/Repointed.txt	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets//Repointed.txt	2429612
 plugins/Mythos/sets/Scooby.txt	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/Scooby.txt	3044859
 plugins/Mythos/sets/StdC.txt	https://raw.githubusercontent.com/Sillywiz04/Mythos/main/sets/StdC.txt	1093749
