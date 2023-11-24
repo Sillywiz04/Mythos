@@ -1,3 +1,14 @@
+Mythos LACKEYCCG PLUGIN README v1.20
+24/11/2023
+Fixed New Aeon Images now showing in Lackey
+Fixed a number of typographic or data entry errors.
+Added 'Past' attribute and moved 'Past' entires from Dimension.
+Uniques are now described with the word 'Unique' instead of 'Yes'.
+NA now replaced in region as New Aeon.
+EU entires now replaced with Europe.
+Updated Movieland Investigator images.
+Automatic updates now working.
+
 Mythos LACKEYCCG PLUGIN README v1.10
 15/07/2023
 
