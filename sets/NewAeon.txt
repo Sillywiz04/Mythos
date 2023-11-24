@@ -172,10 +172,8 @@ Dimensional Shambler (v1)	NewAeon	NA704	Monster	Lesser Independent		3	-1								
 Fractal Creatures	NewAeon	NA705	Monster	Lesser Servitor		4	-1													R	-2 Value if Summoned. Joins Fractal Creatures.
 Greys	NewAeon	NA706	Monster	"Lesser Independent, Corrupt Scientist"	Binary	1														C	 Use an Outside Gate to play as an Ally. Joins Greys. Dimensional Travel with UFO.
 Hound of Tindalos	NewAeon	NA707	Monster	Greater Independent		5	-2													C	+1 Value if opponent is Inside.
-"Larva of the Other Gods,"																					
-First Stage	New Aeon	NA708	Monster	Greater Independent		1														U	"+2 Value if opponent is in Space Location. Summon to Travel in Space (location in any Region). Joins Larva of the Other Gods, First Stage."
-"Larvae of the Other Gods,"																					
-Second Stage	New Aeon	NA709	Monster	Greater Independent		4	-1													U	Summon to Travel by Land (same Region).
+"Larva of the Other Gods, First Stage"	New Aeon	NA708	Monster	Greater Independent		1														U	"+2 Value if opponent is in Space Location. Summon to Travel in Space (location in any Region). Joins Larva of the Other Gods, First Stage."
+"Larvae of the Other Gods ,Second Stage"	New Aeon	NA709	Monster	Greater Independent		4	-1													U	Summon to Travel by Land (same Region).
 Men in Black	New Aeon	NA710	Monster	Greater Servitor		3	-1													C	"When Threat is revealed, randomly choose one of your opponent's Allies (Defending or not) and flip that card face-down. Joins Men in Black"
 Mi-Go (v2)	New Aeon	NA711	Monster	"Lesser Independent, Corrupt Scientist"	Glyphs	2														C	Use a City Gate to play this Mi-Go as an Ally. Joins Mi-Go.
 Serpent People (v2)	New Aeon	NA712	Monster	"Lesser Independent, Corrupt Scientist"	Atlantean	3	-1													C	"When revealed, Bury all Threat Events in the opposing Directed Threat. They have no effect. Joins Serpent People"
