@@ -172,40 +172,40 @@ Dimensional Shambler (v1)	NewAeon	NA704	Monster	Lesser Independent		3	-1								
 Fractal Creatures	NewAeon	NA705	Monster	Lesser Servitor		4	-1													R	-2 Value if Summoned. Joins Fractal Creatures.
 Greys	NewAeon	NA706	Monster	"Lesser Independent, Corrupt Scientist"	Binary	1														C	 Use an Outside Gate to play as an Ally. Joins Greys. Dimensional Travel with UFO.
 Hound of Tindalos	NewAeon	NA707	Monster	Greater Independent		5	-2													C	+1 Value if opponent is Inside.
-"Larva of the Other Gods, First Stage"	New Aeon	NA708	Monster	Greater Independent		1														U	"+2 Value if opponent is in Space Location. Summon to Travel in Space (location in any Region). Joins Larva of the Other Gods, First Stage."
-"Larvae of the Other Gods ,Second Stage"	New Aeon	NA709	Monster	Greater Independent		4	-1													U	Summon to Travel by Land (same Region).
-Men in Black	New Aeon	NA710	Monster	Greater Servitor		3	-1													C	"When Threat is revealed, randomly choose one of your opponent's Allies (Defending or not) and flip that card face-down. Joins Men in Black"
-Mi-Go (v2)	New Aeon	NA711	Monster	"Lesser Independent, Corrupt Scientist"	Glyphs	2														C	Use a City Gate to play this Mi-Go as an Ally. Joins Mi-Go.
-Serpent People (v2)	New Aeon	NA712	Monster	"Lesser Independent, Corrupt Scientist"	Atlantean	3	-1													C	"When revealed, Bury all Threat Events in the opposing Directed Threat. They have no effect. Joins Serpent People"
-Servants of the Silver Twilight	New Aeon	NA713	Monster	"Lesser Servitor, Corrupt Soldier"	"English, Greek"	2														C	Joins with Servants of the Silver Twilight
-Shoggoth Lord	New Aeon	NA714	Monster	Greater Servitor		3	-1		Unique											R	"Use a Gate at a Location with a red Sanity pentagram to play Shoggoth Lord as an Ally. Add 2 points value of Shoggoth Lord as an Ally. Add 2 points to value of Shoggoth Lord in your Directed Threat if that Directed Threat contains Shoggoth Lord, or if Shoggoth Lord is an Ally"
-Shub-Niggurath	New Aeon	NA715	Monster	Great Old One		GOO		"Country/Forested Location, False Dawn"												U	All Monsters may be played as Allies (still must use a Gate). Increase the value of all Dark Young by 1 point. No Investigator may gain Sanity.
-Star Vampire	New Aeon	NA716	Monster	Lesser Servitor		3	-1	Invisible												R	Add 1 point to the value of this card if you or your opponent is in a Space Location. Invisible when any Star is in play.
-Tsathoggua	New Aeon	NA717	Monster	Great Old One		GOO		"Outside/Country Location, Blackout"												R	"At the end of Combat, prior to the regular Discard phase, all Investigators Discard Monster cards remaining in their Hands. No Investigator may gain Sanity"
-Werewolf	New Aeon	NA718	Monster	Lesser Independent		3	-1													U	Add 1 point to the value of this card when any Night Event is in play; add 2 when Full Moon is in play. Joins Werewolf
-Yog Sothoth	New Aeon	NA719	Monster	Outer God		OG		"Country/Forested Location, Nemesis"												R	Treat all Locations in all Dimensions as if they belong to the same Region. No Investigator may gain Sanity.
-Zombies (v2)	New Aeon	NA720	Monster	Living Dead		2														C	"Value is 1 during the Day. If any Allies are lost in Combat involving Zombies, begin next round with one Zombies card face-down in your Threat (forms a new Threat). Joins Living Dead."
-Bless	New Aeon	NA801	Spell	Eye			-1													R	Target Weapon becomes Enchanted for the remainder of the Round.
-Call the Unnamed One	New Aeon	NA802	Spell	Folk			-1													C	Cast this spell to immediately play one Monster card as an Ally (no Gate needed).
-Chronoportation	New Aeon	NA803	Spell	Folk			-1													C	Immediately play any Tome or Artifact from another Dimension that would otherwise be legal at your Current Location
-Create Stasis	New Aeon	NA804	Spell	Eye			-1													U	May only be played during Combat. Set aside one random card in the target Directed Threat: it does not particpate in Combat this Round. Target begins the next Round with that card in his or her Threat.
-Darkness of the Void	New Aeon	NA805	Spell	Eye			-1													R	"It is now Night. Place this card in Event area. Bury any Day, Night, Storm, or Drought Events in play. Day Events may not be played. Bury this card if any Night Event is played."
-Enthrall Victims	New Aeon	NA806	Spell	Folk			-2													U	Flip two random Allies of Target opponent.
-Evoke Doppleganger	New Aeon	NA807	Spell	Yellow Sign			-1													R	Cast on an Ally (except Living Dead) and immediately play another copy of that Ally card whether or not he or she could be played at your Current Location.
-Exorcism	New Aeon	NA808	Spell	Folk			-1													U	May only be used during Combat. Discard a Monster from your Threat and Bury a random card from target Directed Threat.
-Flesh Ward	New Aeon	NA809	Spell	Folk			-1													U	"Once cast, and as long as this card remains face-down, your Investigator is protected from the effects of Radiation. At the end of the Round you may spend 1 Sanity point to keep this card face-down."
-Grasp Of Cthulhu	New Aeon	NA810	Spell	Eye			-2													R	"All Monsters join, for all Investigators, for the remainder of the Round."
-Insidious Ululation of the Inv Sup	New Aeon	NA811	Spell	Eye			-1													U	"Once cast, and as long as this card remains face-down, your Investigator is protected from the effects of Space. At the end of the Round you may spend 1 Sanity point to keep this card face-down."
-Mental Suggestion	New Aeon	NA812	Spell	Yellow Sign			-1													C	Target Investigator must reshuffle his or her Discards and Mythos Deck with no Sanity cost.
-Monatomic Translocation	New Aeon	NA813	Spell	Folk			-2													C	You may immediately play a new Location in any Dimension (except Exotic) as your Current Location
-Shaggai Mental Possession	New Aeon	NA814	Spell	Yellow Sign			-1													U	"Replace chosen target Ally with the Ally closest to the bottom of opponent's Story Deck. If none, Spell may not be cast."
-Song of the Stellar Larvae	New Aeon	NA815	Spell	Folk			-1													U	"You may play one Monster allowing Travel as a Special Effect to the top of your Story Deck. Then, immediately play a new Location, as allowed by the Monster's Special Effect, as your Current Location."
-Temporal Lash	New Aeon	NA816	Spell	Yellow Sign			-2													R	"When cast upon an opponent, you force him or her to Discard the Ally closest to the bottom of his or her Story Deck."
-Azathoth And Others	New Aeon	NA901	Tome	"Eye, Folk"	English	2	-1													U	An Unexpected Calamity can not be played by any player
-B-Movie Script	New Aeon	NA902	Tome	Folk	English	1														C	"Bury this card and cause one opponent to ""recast"" (Flip) his or her Investigator card unless that opponent loses 2 Sanity points by rejecting the script."
-Massa Di Requiem Per Shuggay	New Aeon	NA903	Tome	"Eye, Yellow Sign"	Italian	3	-2													C	"With a Musician Ally, you may play this Tome regardless of the languages know by your Investigator or Allies."
-Prophecies of Nostradamus	New Aeon	NA904	Tome	"Eye, Folk"	French	2	-1													U	You may play Events (except Travel Events) featuring the New Aeon icon
-The Internet	New Aeon	NA905	Tome	Folk	Binary	2				New Aeon										C	"If you also have Laptop Computer in play, add 1 point to this card's value (randomly lose spell if Laptop is lost). Joins with Laptop Computer at Artifact/Tome Locations, even if you do not currently know Binary"
-Whispers Pulp Magazine Collection	New Aeon	NA906	Tome	"Folk, Yellow Sign"	English	1	-1			New Aeon										C	
-Zanthu Tablets	New Aeon	NA907	Tome	"Eye, Folk, Yellow Sign"	Glyphs	3	-3													C	
-Zanthu Tablets: A Conjectural Translation	New Aeon	NA908	Tome	Eye	English	1	-1													C	Spells or Artifacts that affect the top card of your Story Deck can not be used against you.
+"Larva of the Other Gods, First Stage"	NewAeon	NA708	Monster	Greater Independent		1														U	"+2 Value if opponent is in Space Location. Summon to Travel in Space (location in any Region). Joins Larva of the Other Gods, First Stage."
+"Larvae of the Other Gods, Second Stage"	NewAeon	NA709	Monster	Greater Independent		4	-1													U	Summon to Travel by Land (same Region).
+Men in Black	NewAeon	NA710	Monster	Greater Servitor		3	-1													C	"When Threat is revealed, randomly choose one of your opponent's Allies (Defending or not) and flip that card face-down. Joins Men in Black"
+Mi-Go (v2)	NewAeon	NA711	Monster	"Lesser Independent, Corrupt Scientist"	Glyphs	2														C	Use a City Gate to play this Mi-Go as an Ally. Joins Mi-Go.
+Serpent People (v2)	NewAeon	NA712	Monster	"Lesser Independent, Corrupt Scientist"	Atlantean	3	-1													C	"When revealed, Bury all Threat Events in the opposing Directed Threat. They have no effect. Joins Serpent People"
+Servants of the Silver Twilight	NewAeon	NA713	Monster	"Lesser Servitor, Corrupt Soldier"	"English, Greek"	2														C	Joins with Servants of the Silver Twilight
+Shoggoth Lord	NewAeon	NA714	Monster	Greater Servitor		3	-1		Unique											R	"Use a Gate at a Location with a red Sanity pentagram to play Shoggoth Lord as an Ally. Add 2 points value of Shoggoth Lord as an Ally. Add 2 points to value of Shoggoth Lord in your Directed Threat if that Directed Threat contains Shoggoth Lord, or if Shoggoth Lord is an Ally"
+Shub-Niggurath	NewAeon	NA715	Monster	Great Old One		GOO		"Country/Forested Location, False Dawn"												U	All Monsters may be played as Allies (still must use a Gate). Increase the value of all Dark Young by 1 point. No Investigator may gain Sanity.
+Star Vampire	NewAeon	NA716	Monster	Lesser Servitor		3	-1	Invisible												R	Add 1 point to the value of this card if you or your opponent is in a Space Location. Invisible when any Star is in play.
+Tsathoggua	NewAeon	NA717	Monster	Great Old One		GOO		"Outside/Country Location, Blackout"												R	"At the end of Combat, prior to the regular Discard phase, all Investigators Discard Monster cards remaining in their Hands. No Investigator may gain Sanity"
+Werewolf	NewAeon	NA718	Monster	Lesser Independent		3	-1													U	Add 1 point to the value of this card when any Night Event is in play; add 2 when Full Moon is in play. Joins Werewolf
+Yog Sothoth	NewAeon	NA719	Monster	Outer God		OG		"Country/Forested Location, Nemesis"												R	Treat all Locations in all Dimensions as if they belong to the same Region. No Investigator may gain Sanity.
+Zombies (v2)	NewAeon	NA720	Monster	Living Dead		2														C	"Value is 1 during the Day. If any Allies are lost in Combat involving Zombies, begin next round with one Zombies card face-down in your Threat (forms a new Threat). Joins Living Dead."
+Bless	NewAeon	NA801	Spell	Eye			-1													R	Target Weapon becomes Enchanted for the remainder of the Round.
+Call the Unnamed One	NewAeon	NA802	Spell	Folk			-1													C	Cast this spell to immediately play one Monster card as an Ally (no Gate needed).
+Chronoportation	NewAeon	NA803	Spell	Folk			-1													C	Immediately play any Tome or Artifact from another Dimension that would otherwise be legal at your Current Location
+Create Stasis	NewAeon	NA804	Spell	Eye			-1													U	May only be played during Combat. Set aside one random card in the target Directed Threat: it does not particpate in Combat this Round. Target begins the next Round with that card in his or her Threat.
+Darkness of the Void	NewAeon	NA805	Spell	Eye			-1													R	"It is now Night. Place this card in Event area. Bury any Day, Night, Storm, or Drought Events in play. Day Events may not be played. Bury this card if any Night Event is played."
+Enthrall Victims	NewAeon	NA806	Spell	Folk			-2													U	Flip two random Allies of Target opponent.
+Evoke Doppleganger	NewAeon	NA807	Spell	Yellow Sign			-1													R	Cast on an Ally (except Living Dead) and immediately play another copy of that Ally card whether or not he or she could be played at your Current Location.
+Exorcism	NewAeon	NA808	Spell	Folk			-1													U	May only be used during Combat. Discard a Monster from your Threat and Bury a random card from target Directed Threat.
+Flesh Ward	NewAeon	NA809	Spell	Folk			-1													U	"Once cast, and as long as this card remains face-down, your Investigator is protected from the effects of Radiation. At the end of the Round you may spend 1 Sanity point to keep this card face-down."
+Grasp Of Cthulhu	NewAeon	NA810	Spell	Eye			-2													R	"All Monsters join, for all Investigators, for the remainder of the Round."
+Insidious Ululation of the Inv Sup	NewAeon	NA811	Spell	Eye			-1													U	"Once cast, and as long as this card remains face-down, your Investigator is protected from the effects of Space. At the end of the Round you may spend 1 Sanity point to keep this card face-down."
+Mental Suggestion	NewAeon	NA812	Spell	Yellow Sign			-1													C	Target Investigator must reshuffle his or her Discards and Mythos Deck with no Sanity cost.
+Monatomic Translocation	NewAeon	NA813	Spell	Folk			-2													C	You may immediately play a new Location in any Dimension (except Exotic) as your Current Location
+Shaggai Mental Possession	NewAeon	NA814	Spell	Yellow Sign			-1													U	"Replace chosen target Ally with the Ally closest to the bottom of opponent's Story Deck. If none, Spell may not be cast."
+Song of the Stellar Larvae	NewAeon	NA815	Spell	Folk			-1													U	"You may play one Monster allowing Travel as a Special Effect to the top of your Story Deck. Then, immediately play a new Location, as allowed by the Monster's Special Effect, as your Current Location."
+Temporal Lash	NewAeon	NA816	Spell	Yellow Sign			-2													R	"When cast upon an opponent, you force him or her to Discard the Ally closest to the bottom of his or her Story Deck."
+Azathoth And Others	NewAeon	NA901	Tome	"Eye, Folk"	English	2	-1													U	An Unexpected Calamity can not be played by any player
+B-Movie Script	NewAeon	NA902	Tome	Folk	English	1														C	"Bury this card and cause one opponent to ""recast"" (Flip) his or her Investigator card unless that opponent loses 2 Sanity points by rejecting the script."
+Massa Di Requiem Per Shuggay	NewAeon	NA903	Tome	"Eye, Yellow Sign"	Italian	3	-2													C	"With a Musician Ally, you may play this Tome regardless of the languages know by your Investigator or Allies."
+Prophecies of Nostradamus	NewAeon	NA904	Tome	"Eye, Folk"	French	2	-1													U	You may play Events (except Travel Events) featuring the New Aeon icon
+The Internet	NewAeon	NA905	Tome	Folk	Binary	2				New Aeon										C	"If you also have Laptop Computer in play, add 1 point to this card's value (randomly lose spell if Laptop is lost). Joins with Laptop Computer at Artifact/Tome Locations, even if you do not currently know Binary"
+Whispers Pulp Magazine Collection	NewAeon	NA906	Tome	"Folk, Yellow Sign"	English	1	-1			New Aeon										C	
+Zanthu Tablets	NewAeon	NA907	Tome	"Eye, Folk, Yellow Sign"	Glyphs	3	-3													C	
+Zanthu Tablets: A Conjectural Translation	NewAeon	NA908	Tome	Eye	English	1	-1													C	Spells or Artifacts that affect the top card of your Story Deck can not be used against you.
