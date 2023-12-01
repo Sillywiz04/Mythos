@@ -35,8 +35,8 @@ Nikola Tesla	NewAeon	NA215	Ally	Steadfast Inventor & Scientist	English & German	
 Ozzy Orne	NewAeon	NA216	Ally	"Corrupt Cultist, Musician & Living Dead, "	English	1			Unique	New Aeon			Kingsport							C	Can know one spell. Bury spell after it is cast.
 Patricia Bridgitte Jodoin	NewAeon	NA217	Ally	Corrupt Dreamer & Occultist	"French, Glyph"	1				New Aeon			Paris							C	"While this card is in play, you may use a Gate to play Men In Black as Allies"
 Professor L.N. Isinwyll	NewAeon	NA218	Ally	Steadfast Professor & Dre	"English, Latin & Glyph"	1				New Aeon			Any Tome							C	
-Reverend Baxter Lully	NewAeon	NA219	Ally	Corrupt Cultist & Priest	English & Latin	2							Washingtom D.C.							C	"Flip this card to give your Current Location the Church attribute. During each additional Turn that you remain in this Location and that Reverend Baxter Lully remains Flipped, you may Bury one Phobia affecting your Investigator"
-Robert Bloch	NewAeon	NA220	Ally	Steadfast Author	English & Atlantean	1	1						Any Site							U	
+Reverend Baxter Lully	NewAeon	NA219	Ally	Corrupt Cultist & Priest	English & Latin	2				New Aeon			Washingtom D.C.							C	"Flip this card to give your Current Location the Church attribute. During each additional Turn that you remain in this Location and that Reverend Baxter Lully remains Flipped, you may Bury one Phobia affecting your Investigator"
+Robert Bloch	NewAeon	NA220	Ally	Steadfast Author	English & Atlantean	1	1			New Aeon			Any Site							U	
 Sandy Petersen	NewAeon	NA221	Ally	Steadfast Author	"English, Glyph & Binary"	2				New Aeon			Any Outside							C	
 Shariil Sophast	NewAeon	NA222	Ally	Steadfast Spiritualist	"English, French"	2				New Aeon			Paris							R	Bury this card to remove the Gate attribute from your opponent's Current Location
 Toodee-6	NewAeon	NA223	Ally	Corrupt Worker	Binary	3	-1			New Aeon			Any Government							U	"Toodee-6 can see Invisible Monsters, can not be given Weapons, and is immune to Epidemics. Bury Toodee-6 during Combat only if it takes its full card value in Sanity loss."
@@ -51,14 +51,14 @@ Cthulhu Statuette 	NewAeon	NA307	Artifact																	C	"Costs 1 Sanity poin
 Disturbing Portrait 	NewAeon	NA308	Artifact				-1													C	"This card has constant effect. While in the New Aeon, you may find Waking World Allies from your current subregion. "
 Emergency Medical Equipment 	NewAeon	NA309	Artifact							New Aeon										U	Bury this card to cancel the effects of a card played since your last Turn that would otherwise cause you to Bury or Discard an Ally or Allies. 
 Fragmentation Grenade 	NewAeon	NA310	Artifact	Weapon		1				New Aeon										C	"Add 1 point to Ally's value. If Ally is Discarded or Buried, this Weapon suffers the same fate.During Combat Bury this card to Bury one non-Defending Ally. "
-Laptop Computer	NewAeon	NA311	Artifact							New Aeon										C	Knows Binary. Can know any one Spell. Bury Spell in your Story Deck after it is cast. Joins with The Internet at Artifact/Enchantedome Locations 
+Laptop Computer	NewAeon	NA311	Artifact						Unique	New Aeon										C	Knows Binary. Can know any one Spell. Bury Spell in your Story Deck after it is cast. Joins with The Internet at Artifact/Enchantedome Locations 
 M16 Assault Rifle 	NewAeon	NA312	Artifact			3				New Aeon										C	Add 3 points to Ally's Value; Ally is now Steadfast. If Ally is Discarded or Buried this card suffers the same fate. 
 Plastic Explosive 	NewAeon	NA313	Artifact			4				New Aeon										R	Add 4 points to Ally's Value. If Ally is Discarded or Buried this card suffers the same fate. Discard Plastic Explosive after use in Combat and Bury the Ally 
 Radiation Suit 	NewAeon	NA314	Artifact				1			New Aeon										R	This card has constant effect. Enchantedour Investigator is immune to any damage described as being caused by Radiation. 
 Regalia of the Outer Gods	NewAeon	NA315	Artifact				-1		Unique											R	Play only at an Exotic Location. This card has constant effect. Enchantedou are not affected by any Great Old Ones and Outer Gods in play. 
 Space Suit 	NewAeon	NA316	Artifact				1			New Aeon										R	This card has constant effect. Enchantedour Investigator is able to survive in Space. 
 Stealth Fighter 	NewAeon	NA317	Artifact			3	-1			New Aeon										R	Invisible. May join a Directed Threat during the Artifacts Use phase of Combat; treat as a Lesser Servitor Monster. 
-Tactical Nuclear Bomb	NewAeon	NA318	Artifact				-1		Unique	New Aeon										U	Discard this card to Bury all Monsters in all Threats except Great Old Ones and Outer Gods. Radiation cuases the player of this card to lose 3 additional Sanity points when it is used. 
+Tactical Nuclear Bomb	NewAeon	NA318	Artifact				-2		Unique	New Aeon										U	Discard this card to Bury all Monsters in all Threats except Great Old Ones and Outer Gods. Radiation cuases the player of this card to lose 3 additional Sanity points when it is used. 
 Tank 	NewAeon	NA319	Artifact			3	-1			New Aeon										U	May be committed to Defend against one Directed Threat during the Artifacts Use phase of Combat; counts as an Ally. Bury Tank only it if takes its full value in Sanity loss. 
 Taser 	NewAeon	NA320	Artifact	Weapon		1				New Aeon										C	"Add 1 point to Ally's value. If the Ally bearing this Weapon is lost, this card suffers the same fate. Bury this card to stun a random Monster in a Directed Threat facing your Investigator. It returns to Opponent's Hand. "
 Time Machine 	NewAeon	NA321	Artifact				-1													C	"Costs 1 Sanity point to use. Flip this card and walk to any Location (except Exotic) in another Dimension. If your new Location is in the same subregion as your Current Location, you may instead play it right-side-up. "
@@ -122,7 +122,7 @@ Chaosium 	NewAeon	NA505	Location	"Inside, Artifact, Tome, Gate, Business, City, 
 Chrysler Building 	NewAeon	NA506	Location	"Inside, Artifact, City, Site"						New Aeon			New York							R	
 Cite Tatoue 	NewAeon	NA507	Location	"Water, Inside, Tome, Gate, Business, City, "			-1			New Aeon			Paris							U	Spend 1 Sanity point to tattoo (play) a Spell on any Steadfast Ally. Bury Spell when cast 
 Colosseum	NewAeon	NA508	Location	"Outside, Artifact, City, Ruins, "						New Aeon			Rome							C	
-Cykranosh 	NewAeon	NA509	Location	"Outside, Forest, Artifact, Tome, Gate, Country, Space, Underground"			-2			New Aeon			Exotic							R	Space. +1 Formless Spawn. This card fulfills Blackout requirement for Tsathoggua. Multi-dimensional.
+Cykranosh 	NewAeon	NA509	Location	"Outside, Forest, Artifact, Tome, Gate, Country, Space, Underground"			-2			Any			Exotic							R	Space. +1 Formless Spawn. This card fulfills Blackout requirement for Tsathoggua. Multi-dimensional.
 Dawn Biozyme Research Lab 	NewAeon	NA510	Location	"Water, Inside, Artifact, Gate, City, Government, "			-1			New Aeon			Kingsport							C	
 DBZ Spacelab 	NewAeon	NA511	Location	"Inside, Artifact, Tome, Gate, Port, Space, "			-2			New Aeon		Exotic								U	Your Investigator automatically survives in Space at this Location. You may play this card immediately after playing Shuttle Icarus. You may walk to Tycho Base 
 Dr. MacDonald's House 	NewAeon	NA512	Location	"Forest, Water, Inside, Tome, Country, House, Sanitorium, "			5		Unique	New Aeon			New York							U	Randomly Discard one card from your hand. During each additional Turn that you remain here you may Bury one Phobia affecting your Investigator. 
@@ -164,17 +164,17 @@ U.S. Coastguard Station 	NewAeon	NA547	Location	"Outside, Water, Artifact, Count
 United Nations 	NewAeon	NA548	Location	"Water, Inside, Tome, City, Government, "						New Aeon			New York							C	
 Wreck of the Helene	NewAeon	NA549	Location	"Water, Outside Country, Ruins, Tome, Artifact"			-1			New Aeon			Kingsport							C	"While a Star Event is in play, you may walk between this Location and any other Location card in any Dimension, except Exotic Locations."
 Yucca Mountain Project 	NewAeon	NA550	Location	"Outside, Artifact, Tome, Gate, Country, Government, "						New Aeon			Yucca Mountain							R	"You must be able to survive Radiation or lose 5 Sanity points at the beginning of each Turn. Each Monster played to your Threat at this Gate costs 1 Sanity point less than normal to play, to a minimum of zero. "
-Yuggoth 	NewAeon	NA551	Location	"Cemetery, Outside, Artifact, Tome, Gate, Country, Library, Space, "			-2			New Aeon		Exotic								R	"May play this card in any Dimension; assumes Dimension indicator of previous Current Location. Beginning of each turn you must be able to survive in Space or lose 5 Sanity points. For each Turn spent on Yuggoth doing nothing else, you may draw two cards from your Mythos Deck. "
+Yuggoth 	NewAeon	NA551	Location	"Cemetery, Outside, Artifact, Tome, Gate, Country, Library, Space, "			-2					Exotic								R	"May play this card in any Dimension; assumes Dimension indicator of previous Current Location. Beginning of each turn you must be able to survive in Space or lose 5 Sanity points. For each Turn spent on Yuggoth doing nothing else, you may draw two cards from your Mythos Deck. "
 Azathoth	NewAeon	NA701	Monster	Outer God		OG		"Space, Eclipse"												R	All Investigators suffer 2 points of Radiation damage when this card is played. Ignore red Sanity pentagrams and reverse the effect of green Sanity pentagrams. Investigators may not gain Sanity.
-Chakota Beast	NewAeon	NA702	Monster	Lesser Independent		2			Unique											U	+2 Value if you or your opponent is Underground. Joins Chakota Beast.
+Chakota Beast	NewAeon	NA702	Monster	Lesser Independent		2														U	+2 Value if you or your opponent is Underground. Joins Chakota Beast.
 Colour Out Of Space (v1)	NewAeon	NA703	Monster	Greater Independent		6	-2													R	-3 Value if opponent has protection from Radiation.
 Dimensional Shambler (v1)	NewAeon	NA704	Monster	Lesser Independent		3	-1													C	Bypasser. +1 Value if your opponent is in an Exotic Location or any Dimension other than Waking World. Joins Dimensional Shambler.
-Fractal Creatures	NewAeon	NA705	Monster	Lesser Servitor		4	-1													R	-2 Value if Summoned. Joins Fractal Creatures.
-Greys	NewAeon	NA706	Monster	"Lesser Independent, Corrupt Scientist"	Binary	1														C	 Use an Outside Gate to play as an Ally. Joins Greys. Dimensional Travel with UFO.
+Fractal Creatures	NewAeon	NA705	Monster	Lesser Servitor		4	-1			New Aeon										R	-2 Value if Summoned. Joins Fractal Creatures.
+Greys	NewAeon	NA706	Monster	"Lesser Independent, Corrupt Scientist"	Binary	1				New Aeon										C	 Use an Outside Gate to play as an Ally. Joins Greys. Dimensional Travel with UFO.
 Hound of Tindalos	NewAeon	NA707	Monster	Greater Independent		5	-2													C	+1 Value if opponent is Inside.
 "Larva of the Other Gods, First Stage"	NewAeon	NA708	Monster	Greater Independent		1														U	"+2 Value if opponent is in Space Location. Summon to Travel in Space (location in any Region). Joins Larva of the Other Gods, First Stage."
 "Larvae of the Other Gods, Second Stage"	NewAeon	NA709	Monster	Greater Independent		4	-1													U	Summon to Travel by Land (same Region).
-Men in Black	NewAeon	NA710	Monster	Greater Servitor		3	-1													C	"When Threat is revealed, randomly choose one of your opponent's Allies (Defending or not) and flip that card face-down. Joins Men in Black"
+Men in Black	NewAeon	NA710	Monster	Greater Servitor		3	-1			New Aeon										C	"When Threat is revealed, randomly choose one of your opponent's Allies (Defending or not) and flip that card face-down. Joins Men in Black"
 Mi-Go (v2)	NewAeon	NA711	Monster	"Lesser Independent, Corrupt Scientist"	Glyphs	2														C	Use a City Gate to play this Mi-Go as an Ally. Joins Mi-Go.
 Serpent People (v2)	NewAeon	NA712	Monster	"Lesser Independent, Corrupt Scientist"	Atlantean	3	-1													C	"When revealed, Bury all Threat Events in the opposing Directed Threat. They have no effect. Joins Serpent People"
 Servants of the Silver Twilight	NewAeon	NA713	Monster	"Lesser Servitor, Corrupt Soldier"	"English, Greek"	2														C	Joins with Servants of the Silver Twilight
@@ -184,7 +184,7 @@ Star Vampire	NewAeon	NA716	Monster	Lesser Servitor		3	-1	Invisible												R	
 Tsathoggua	NewAeon	NA717	Monster	Great Old One		GOO		"Outside/Country Location, Blackout"												R	"At the end of Combat, prior to the regular Discard phase, all Investigators Discard Monster cards remaining in their Hands. No Investigator may gain Sanity"
 Werewolf	NewAeon	NA718	Monster	Lesser Independent		3	-1													U	Add 1 point to the value of this card when any Night Event is in play; add 2 when Full Moon is in play. Joins Werewolf
 Yog Sothoth	NewAeon	NA719	Monster	Outer God		OG		"Country/Forested Location, Nemesis"												R	Treat all Locations in all Dimensions as if they belong to the same Region. No Investigator may gain Sanity.
-Zombies (v2)	NewAeon	NA720	Monster	Living Dead		2														C	"Value is 1 during the Day. If any Allies are lost in Combat involving Zombies, begin next round with one Zombies card face-down in your Threat (forms a new Threat). Joins Living Dead."
+Zombies (v2)	NewAeon	NA720	Monster	Living Dead		2				New Aeon										C	"Value is 1 during the Day. If any Allies are lost in Combat involving Zombies, begin next round with one Zombies card face-down in your Threat (forms a new Threat). Joins Living Dead."
 Bless	NewAeon	NA801	Spell	Eye			-1													R	Target Weapon becomes Enchanted for the remainder of the Round.
 Call the Unnamed One	NewAeon	NA802	Spell	Folk			-1													C	Cast this spell to immediately play one Monster card as an Ally (no Gate needed).
 Chronoportation	NewAeon	NA803	Spell	Folk			-1													C	Immediately play any Tome or Artifact from another Dimension that would otherwise be legal at your Current Location
@@ -201,7 +201,7 @@ Monatomic Translocation	NewAeon	NA813	Spell	Folk			-2													C	You may imme
 Shaggai Mental Possession	NewAeon	NA814	Spell	Yellow Sign			-1													U	"Replace chosen target Ally with the Ally closest to the bottom of opponent's Story Deck. If none, Spell may not be cast."
 Song of the Stellar Larvae	NewAeon	NA815	Spell	Folk			-1													U	"You may play one Monster allowing Travel as a Special Effect to the top of your Story Deck. Then, immediately play a new Location, as allowed by the Monster's Special Effect, as your Current Location."
 Temporal Lash	NewAeon	NA816	Spell	Yellow Sign			-2													R	"When cast upon an opponent, you force him or her to Discard the Ally closest to the bottom of his or her Story Deck."
-Azathoth And Others	NewAeon	NA901	Tome	"Eye, Folk"	English	2	-1													U	An Unexpected Calamity can not be played by any player
+Azathoth And Others	NewAeon	NA901	Tome	"Eye, Folk"	English	2	-2													U	An Unexpected Calamity can not be played by any player
 B-Movie Script	NewAeon	NA902	Tome	Folk	English	1														C	"Bury this card and cause one opponent to ""recast"" (Flip) his or her Investigator card unless that opponent loses 2 Sanity points by rejecting the script."
 Massa Di Requiem Per Shuggay	NewAeon	NA903	Tome	"Eye, Yellow Sign"	Italian	3	-2													C	"With a Musician Ally, you may play this Tome regardless of the languages know by your Investigator or Allies."
 Prophecies of Nostradamus	NewAeon	NA904	Tome	"Eye, Folk"	French	2	-1													U	You may play Events (except Travel Events) featuring the New Aeon icon

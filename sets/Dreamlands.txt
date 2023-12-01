@@ -33,7 +33,7 @@ Iranon the Explorer	Dreamlands	DL212	Ally	Steadfast Musician & Explorer	English	
 King Kuranes	Dreamlands	DL213	Ally	Steadfast King & Gentleman	English	3				Dreamlands		The East	Celephais							U	"As long as he is chosen as a defending Ally, King Kuranes raises the value of all Defending Attributes: Steadfast Allies by 1 point per card. Not cumulative with another Ally's Command Ability"
 Kranon	Dreamlands	DL214	Ally	Steadfast Gentleman	English	2				Dreamlands		The West	Ulthar							C	"Burgomaster of Ulthar. During combat, if your current location is in Ulthar, subtract 1 from each Directed Threat attacking your Investigator"
 Lin Carter	Dreamlands	DL215	Ally	Steadfast Author & Dreamer	English & Atlantean	1						Any Site								U	As a Turn you may Flip this card face-down and draw a new card from the top of your Mythos deck.
-Merchant of Ill Repute	Dreamlands	DL216	Ally	Corrupt Cultist & Merchant	English	1			Unique			The West	Dylath-Leen							C	Bury the Merchant of Ill Repute to cause an opponent to Bury a random Artifact.
+Merchant of Ill Repute	Dreamlands	DL216	Ally	Corrupt Cultist & Merchant	English	1			Unique	Dreamlands		The West	Dylath-Leen							C	Bury the Merchant of Ill Repute to cause an opponent to Bury a random Artifact.
 Nasht & Kaman-Thah	Dreamlands	DL217	Ally	Steadfast Priest	English & Latin	2	1			Dreamlands		Any Temple								C	"While your current Location is The Cavern of Flame, Bury Nasht & Kaman-Thah to play immediately any Waking World Location (except Exotic) right-side-up."
 Old Woman of the Enchanted Wood	Dreamlands	DL218	Ally	Corrupt Cultist	English	1	-1		Unique	Dreamlands		The West	Oukranos Wilds							U	Bury The Old Woman of the Enchanted Wood to cause an opponent to Discard one random Steadfast Ally.
 Randolph Carter	Dreamlands	DL219	Ally	Steadfast Dreamer	English	2						Any Country								C	"This card can be played in the Dreamlands or in the Waking World. If your Current Location is in the Dreamlands, Randoph Carter can join with any one Attributes: Steadfast Ally."
@@ -159,8 +159,8 @@ Vaults of Zin 	Dreamlands	DL558	Location	"Cemetery, Inside, Gate, City, Lair, Un
 Basilisk	Dreamlands	DL701	Monster	Lesser Independent		2	-1													R	" When revealed, Flip all of opponent's Defending Allies whose current value is an odd number."
 Being of Ib	Dreamlands	DL702	Monster	Lesser Servitor		1			Unique	Dreamlands										C	"When revealed, +1 Value for each Ally opponent has committed to defend against it. Joins Beings of Ib."
 Bokrug	Dreamlands	DL703	Monster	Great Old One		GOO		"Ruins, Storm"												C	All Locations feature the Water attribute. Do not Bury Storm Events. Investigators may not gain Sanity unless they are in Mnar.
-Buopoth	Dreamlands	DL704	Monster	Lesser Independent					Unique	Dreamlands										C	Monsters opposing do not Bypass. Joins with all Monsters.
-Cat from Saturn	Dreamlands	DL705	Monster	Greater Independent		3	-1		Unique	Dreamlands										C	Bypasser. Cannot be Summoned or Controlled. Joins Cats from Saturn.
+Buopoth	Dreamlands	DL704	Monster	Lesser Independent						Dreamlands										C	Monsters opposing do not Bypass. Joins with all Monsters.
+Cat from Saturn	Dreamlands	DL705	Monster	Greater Independent		3	-1			Dreamlands										C	Bypasser. Cannot be Summoned or Controlled. Joins Cats from Saturn.
 Chorazin	Dreamlands	DL706	Monster	Great Old One		GOO		"Dreamlands Site, Lunar Eclipse"												R	"[Dreamlands Site, Lunar Eclipse] All Phobias affect only the Investigator who played them. Investigators may not gain Sanity."
 Dhole  (v1)	Dreamlands	DL707	Monster	Greater Independent		4	-1		Unique											R	"When revealed, if opponent's Current Location is Underground, you may Bury this card and cause opponent to Bury his Current Location (Ignore revealed Sanity gain/loss). Joins Dholes. UNIQUE"
 Fireworm of Parg	Dreamlands	DL708	Monster	Greater Independent		5	-2			Dreamlands										U	All Monsters in the same Directed Threat function as if it is Day.
@@ -202,7 +202,7 @@ Whirligig	Dreamlands	DL821	Spell	Water			-1													R	"Flip all face-down ca
 Book of Beautiful Devices	Dreamlands	DL901	Tome	Dream	Hyperborean	2	-1			Dreamlands										C	You may find Dreamlands Artifacts in the Waking World
 Cultus Maleficarum	Dreamlands	DL902	Tome	Yellow Sign	English	1	-1													R	
 Monstres and Their Kynde	Dreamlands	DL903	Tome	"Eye, Folk"	English	1	-1													C	
-Necronomicon Dreamlands Edition	Dreamlands	DL904	Tome	"Dream, Eye, Yellow Sign"	Glyphs	4	-3													U	This card may be found at an Exotic Location only. You may walk between the Waking World and the Dreamlands as if they were in the same Region.
+Necronomicon Dreamlands Edition	Dreamlands	DL904	Tome	"Dream, Eye, Yellow Sign"	Glyphs	4	-3			Dreamlands										U	This card may be found at an Exotic Location only. You may walk between the Waking World and the Dreamlands as if they were in the same Region.
 Papyrus of Ilarnek	Dreamlands	DL905	Tome	"Dream, Water"	Glyphs	2	-1			Dreamlands										C	
 Pnakotic Manuscripts	Dreamlands	DL906	Tome	"Folk, Water"	Atlantean or Hyperborean	2	-2													U	Bury this card to cancel the effects of an Event just played. Then Bury the Event.
 Thaumaturgical Prodigies in the New English Canaan (v1)	Dreamlands	DL907	Tome	Folk	English	2	-1													U	

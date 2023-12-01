@@ -162,7 +162,7 @@ The Unnameable House	Limited	Ltd544	Location	"Forest, Water, Inside, Gate, City,
 The Waite House	Limited	Ltd545	Location	"Water, Inside, Artifact, Tome, Gate, City, House, "			-1					Lovecraft	Innsmouth							C	All Waites add 1 to their value when this card is your current Location
 Thurston's Tavern 	Limited	Ltd546	Location	"Water, Inside, Business, City, "								Lovecraft	Providence							C	You may remain here for one Turn and Bury one Phobia 
 Ward Mansion 	Limited	Ltd547	Location	"Water, Inside, Tome, City, House, "								Lovecraft	Providence							U	
-Colour Out Of Space (v2)	Limited	Ltd701	Monster	Greater Independent		06-Apr	-2	Visible/Invisible												C	" When revealed, decide if Visible (Value 6) or Invisible (Value 4). Remains thus for the remainder of Combat. Half Strength in Direct Sunlight."
+Colour Out Of Space (v2)	Limited	Ltd701	Monster	Greater Independent		6/4	-2	Visible/Invisible												C	" When revealed, decide if Visible (Value 6) or Invisible (Value 4). Remains thus for the remainder of Combat. Half Strength in Direct Sunlight."
 Deep One (v2)	Limited	Ltd702	Monster	Lesser Servitor		1														C	"+1 Value if your opponent is at a Water Location. +1 Value if you have Jewelry of the Deep Ones in play. Joins Mother Hydra, Father Dagon, Shoggoths."
 Elder Things	Limited	Ltd703	Monster	Lesser Independent		2														R	Bypasses all Monsters except for Shoggoths. +2 Value if you or your opponent is in a Water Location. Never Buried in your Story Deck; discard after Combat. Joins Elder Things.
 Father Dagon	Limited	Ltd704	Monster	Greater Servitor		4	-1		Unique											U	"+1 Value if you have Jewelry of the Deep Ones in play. Joins Mother Hydra, Deep Ones, Shoggoths. UNIQUE"
@@ -206,10 +206,10 @@ Voorish Sign	Limited	Ltd814	Spell	Folk			-1													R	"After casting, you ma
 Wave of Oblivion	Limited	Ltd815	Spell	Water			-2													R	"Take the top card of your opponent's Story Deck and Discard it. If card revealed is not a Location, bury it. Repeat until a Location card is revealed. Ignore Sanity gain/loss; may use Gate"
 Wrack	Limited	Ltd816	Spell	Folk			-1													C	Flip one Ally card face down
 Book of Dzyan (English)	Limited	Ltd901	Tome	Water	English	1	-1													C	Can also find one Yellow Sign Spell in this Tome if Aldebaran Moves in the Sky is in play
-Call of Cthulhu	Limited	Ltd902	Tome	Folk	English		-1													C	"""Re-roll your Investigator. As your turn and while a Waning Moon is in play, Bury this card (plus any spell) and exchange your Investigator Card for another. The Education value on the new card may not be the same as that of another Investigator already in play. Current Sanity points do not change"
+Call of Cthulhu	Limited	Ltd902	Tome	Folk	English	1														C	"""Re-roll your Investigator. As your turn and while a Waning Moon is in play, Bury this card (plus any spell) and exchange your Investigator Card for another. The Education value on the new card may not be the same as that of another Investigator already in play. Current Sanity points do not change"
 Cthaat Aquadingen	Limited	Ltd903	Tome	Water	German	3	-2													R	"While this Tome is in play, increase the total value of your Threat by 1 point if Deep Ones, Father Dagon, or Mother Hydra are part of your Threat"
 Cultes Des Goules	Limited	Ltd904	Tome	"Folk, Skull"	French	2	-2													C	"While this Tome is in play, increase the total value of your Threat by 1 point if any Living Dead are a part of it"
-King in Yellow (English)	Limited	Ltd905	Tome	Folk	English		-1													C	
+King in Yellow (English)	Limited	Ltd905	Tome	Folk	English	1														C	
 King in Yellow (French)	Limited	Ltd906	Tome	"Yellow Sign, Water"	French	2	-2													R	
 Nameless Cults Bridewell Ed	Limited	Ltd907	Tome	Folk	English	2	-1													C	
 Necronomicon Dee Ed.	Limited	Ltd908	Tome	"Cthulhu, Eye"	English	1	-1													C	
